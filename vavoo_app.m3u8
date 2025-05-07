@@ -30,6 +30,12 @@ https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/8858445202e2ac20b5656
 
+#EXTINF:-1 group-title="RUSSIA",1 MUS .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/22419276756f7195d19bd7
+
 #EXTINF:-1 group-title="ROMANIA",1 MUSIC CHANNEL .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -312,6 +318,18 @@ https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3723807880b3fb6188ee94
 
+#EXTINF:-1 group-title="ARABIA",2M MONDE (360P) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1898402275f86edc0e0191
+
+#EXTINF:-1 group-title="ARABIA",2M TNT .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/38118373684cd0b78ba7b6
+
 #EXTINF:-1 group-title="RUSSIA",2X2 TV .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -503,6 +521,12 @@ https://vavoo.to/vavoo-iptv/play/805689873341639546753
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/315207916849418564f7e9
+
+#EXTINF:-1 group-title="TURKEY",4K TR: BOOMERANG .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3510107618b4bd2dc6657d
 
 #EXTINF:-1 group-title="TURKEY",4K TR: CARTOON NETWORK .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -762,6 +786,12 @@ https://vavoo.to/vavoo-iptv/play/698495811d90e484ca252
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/344071158009740df4a222
 
+#EXTINF:-1 group-title="TURKEY",4K TR: S NEMA KOMED HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/4407749499b6c2037cd18
+
 #EXTINF:-1 group-title="TURKEY",4K TR: S NEMA TV 1001 HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -863,6 +893,12 @@ https://vavoo.to/vavoo-iptv/play/190715470454a282dd6577
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/27949369132f08a592203d
+
+#EXTINF:-1 group-title="TURKEY",4K TR: TRT 1 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1762199258e25181300f62
 
 #EXTINF:-1 group-title="TURKEY",4K TR: TRT 2 HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -1608,6 +1644,12 @@ https://vavoo.to/vavoo-iptv/play/363694639925507a872139
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1021671027bcdb408e2329
 
+#EXTINF:-1 group-title="ARABIA",ABU DHABI DRAMA .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/39273027551939de49366
+
 #EXTINF:-1 group-title="ARABIA",ABU DHABI SPORT ASIA 1 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1661,6 +1703,12 @@ https://vavoo.to/vavoo-iptv/play/26581848098b4b3ee84c59
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/976859220dbbb91d12cd2
+
+#EXTINF:-1 group-title="ITALY",ACI SPORT TV .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 
 #EXTINF:-1 group-title="FRANCE",ACTION .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -1991,6 +2039,12 @@ https://vavoo.to/vavoo-iptv/play/11581729457d737ec795e4
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3616888284c79b6153fb88
+
+#EXTINF:-1 group-title="ARABIA",AL AOULA HD TNT .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/718684517ee228c0fa4ff
 
 #EXTINF:-1 group-title="ARABIA",AL AOULA INTER .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -2634,6 +2688,12 @@ https://vavoo.to/vavoo-iptv/play/13383062873c491b050074
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/412557995076efe85dc880
 
+#EXTINF:-1 group-title="ALBANIA",ALAM (360P) [NOT 24/7] .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2249421712ff3207751b17
+
 #EXTINF:-1 group-title="ARABIA",ALARABY 2 TV (FHD) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2808,11 +2868,23 @@ https://vavoo.to/vavoo-iptv/play/1426505444dd757f4ac766
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/501483461d2eb864be853
 
+#EXTINF:-1 group-title="ARABIA",ALGERIA 1 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3870741582ccf80acec002
+
 #EXTINF:-1 group-title="ARABIA",ALGERIA 4 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/777411390333fbcee2ac9
+
+#EXTINF:-1 group-title="ARABIA",ALGERIA 5 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/32233537458dd904b1bd5
 
 #EXTINF:-1 group-title="ARABIA",ALGERIA A3 HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -3150,6 +3222,12 @@ https://vavoo.to/vavoo-iptv/play/27692226704f91f92baf7f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/841340640dcff438f604e
 
+#EXTINF:-1 group-title="FRANCE",ALSACE 20 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/32407529590081a502d69b
+
 #EXTINF:-1 group-title="ALBANIA",ALSAT .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3222,6 +3300,12 @@ https://vavoo.to/vavoo-iptv/play/4121584829c96d950d5925
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/5234125702f1ab7e4d96f
 
+#EXTINF:-1 group-title="FRANCE",ALTICE STUDIO HD .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/81737034162dae716442d
+
 #EXTINF:-1 group-title="ITALY",ALTO ADIGE TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3276,6 +3360,12 @@ https://vavoo.to/vavoo-iptv/play/3350242108dad357447092
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1549714397654c54631a08
 
+#EXTINF:-1 group-title="FRANCE",AMAZON PRIME 2 HD+ .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1258724883356bb28f96a0
+
 #EXTINF:-1 group-title="FRANCE",AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3293,6 +3383,12 @@ https://vavoo.to/vavoo-iptv/play/4207970956ed163be6e9e9
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1589190774880e7f14cc68
+
+#EXTINF:-1 group-title="FRANCE",AMAZON PRIME 3 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/243195987591bffdc37fcf
 
 #EXTINF:-1 group-title="FRANCE",AMAZON PRIME 3 HD+ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -3336,12 +3432,6 @@ https://vavoo.to/vavoo-iptv/play/205171795996e163c44a77
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/145305056422c10c6fde04
 
-#EXTINF:-1 group-title="FRANCE",AMAZON PRIME 5 HD+ .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/795341786f0dcb9bf5fa3
-
 #EXTINF:-1 group-title="FRANCE",AMAZON PRIME 5 [LIVE DURING EVENTS ONLY] .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3378,6 +3468,12 @@ https://vavoo.to/vavoo-iptv/play/2872673974a3a99e198901
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/348048825acd0661c7838
 
+#EXTINF:-1 group-title="FRANCE",AMAZON PRIME 7 HD+ .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/263360924ffceb5ba8d5
+
 #EXTINF:-1 group-title="FRANCE",AMAZON PRIME 7 [LIVE DURING EVENTS ONLY] .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3401,6 +3497,12 @@ https://vavoo.to/vavoo-iptv/play/3727168653ec22aa96caae
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/921329291c49ec1552b55
+
+#EXTINF:-1 group-title="FRANCE",AMAZON PRIME 9 [LIVE DURING EVENTS ONLY] .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/9404227462bfa0ca08178
 
 #EXTINF:-1 group-title="GERMANY",AMAZON PRIME HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -4014,6 +4116,12 @@ https://vavoo.to/vavoo-iptv/play/3221819839c4aab79b9cdd
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/550012320c466b1bd3788
 
+#EXTINF:-1 group-title="ROMANIA",ARDEAL TV .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3491626627d68ad1be068c
+
 #EXTINF:-1 group-title="ALBANIA",ARENA SPORT 1 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4290,12 +4398,6 @@ https://vavoo.to/vavoo-iptv/play/3865934881e8fd115c971c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1375609480f844db17eb0f
 
-#EXTINF:-1 group-title="ALBANIA",ART DOKU 1 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/5489691897492b0429d3c
-
 #EXTINF:-1 group-title="ALBANIA",ART DOKU 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4344,6 +4446,12 @@ https://vavoo.to/vavoo-iptv/play/26008907870ba94bbea804
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1850150870e1b5184ac24d
 
+#EXTINF:-1 group-title="ALBANIA",ART KINO 2 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3613302408408fc282f8b
+
 #EXTINF:-1 group-title="ALBANIA",ART KINO 3 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4361,6 +4469,12 @@ https://vavoo.to/vavoo-iptv/play/3586832779fc61b5c5be83
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1729459361c75e758be37c
+
+#EXTINF:-1 group-title="ALBANIA",ART SPORT 1 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1144238417ffc0cc56d989
 
 #EXTINF:-1 group-title="ALBANIA",ART SPORT 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -4475,12 +4589,6 @@ https://vavoo.to/vavoo-iptv/play/1255736183f77953b81354
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2593700321f6cc24be874
-
-#EXTINF:-1 group-title="PORTUGAL",ARTV .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/38071720908efeff4f518
 
 #EXTINF:-1 group-title="UNITED KINGDOM",ARY DIGITAL .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -5136,12 +5244,6 @@ https://vavoo.to/vavoo-iptv/play/13712938543372e43bb7c2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/93150444302c7626589f4
 
-#EXTINF:-1 group-title="ARABIA",AYAT QURAN .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/93150444302c7626589f4
-
 #EXTINF:-1 group-title="ARABIA",AYNA AFG .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5453,6 +5555,18 @@ https://vavoo.to/vavoo-iptv/play/1519411021283d08ac01c6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/280573123054a8c61dd62
+
+#EXTINF:-1 group-title="SPAIN",BARCA TV (BACKUP) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/109705859443d9c45942d6
+
+#EXTINF:-1 group-title="SPAIN",BARCA TV .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1979280950e8eaa1c7f5cd
 
 #EXTINF:-1 group-title="SPAIN",BARCA TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -5958,11 +6072,41 @@ https://vavoo.to/vavoo-iptv/play/3692337241ec1b0872b06e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2919229346c4e9a95ddb3f
 
+#EXTINF:-1 group-title="ARABIA",BEIN AFC SOURCE FAMILY .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/7373906830ee9607e808c
+
+#EXTINF:-1 group-title="ARABIA",BEIN AFC1 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/839178749ff0f6ad74c20
+
+#EXTINF:-1 group-title="ARABIA",BEIN AFC1 SD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1528114085173b240e2537
+
+#EXTINF:-1 group-title="ARABIA",BEIN AFC2 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/316328297410190db6c67f
+
 #EXTINF:-1 group-title="ARABIA",BEIN AFC2 SD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/35836508863170c0c37ab0
+
+#EXTINF:-1 group-title="ARABIA",BEIN AFC3 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/18812678404c793bb6fbd1
 
 #EXTINF:-1 group-title="ARABIA",BEIN AFC3 SD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -6318,6 +6462,12 @@ https://vavoo.to/vavoo-iptv/play/67628538752a81c60fa30
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/633673383eb4b040a9044
 
+#EXTINF:-1 group-title="ARABIA",BEIN PREMUIM1 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/17521693264fe30a912eb4
+
 #EXTINF:-1 group-title="ARABIA",BEIN PREMUIM1 SD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6359,6 +6509,12 @@ https://vavoo.to/vavoo-iptv/play/7095572675df3804b4c71
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1130040907908d5d939484
+
+#EXTINF:-1 group-title="ARABIA",BEIN SERIES 1 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/21489071002e86db67bb8d
 
 #EXTINF:-1 group-title="TURKEY",BEIN SERIES 1 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -6450,6 +6606,12 @@ https://vavoo.to/vavoo-iptv/play/38404756531618c87fcc66
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/22330664333ebb4acbb6ab
 
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 (BACKUP) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1110589244d19b8e1dfc0d
+
 #EXTINF:-1 group-title="FRANCE",BEIN SPORTS 1 (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6492,11 +6654,11 @@ https://vavoo.to/vavoo-iptv/play/300113394ceebba66c8ad
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/13524210538e192d878d20
 
-#EXTINF:-1 group-title="FRANCE",BEIN SPORTS 1 FHD .b
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 FHD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/347259658949e36ffc7b26
+https://vavoo.to/vavoo-iptv/play/37217211242c15c51a733
 
 #EXTINF:-1 group-title="FRANCE",BEIN SPORTS 1 FHD [LIVE DURING EVENTS ONLY] .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -6576,6 +6738,30 @@ https://vavoo.to/vavoo-iptv/play/6796047213f34bf43a384
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/14036661078cfa18a20b4e
 
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 PREMIUM (BACKUP 2) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/391401178348a7559b8232
+
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 PREMIUM (BACKUP) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/83187634a6eb2ae478cc
+
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 PREMIUM .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/13503191367afd5c3725c4
+
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 PREMIUM 1080 LOCAL .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/348765617908a2a75872e0
+
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 PREMIUM 1MB .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6593,6 +6779,12 @@ https://vavoo.to/vavoo-iptv/play/849681587e80f5eb8b9e1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1697037782ecb54b61c541
+
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 PREMIUM LOW .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1582724745d8f81e0f70e1
 
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS 1 PREMIUM SD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -6792,12 +6984,6 @@ https://vavoo.to/vavoo-iptv/play/2785998354cbb49482bcfb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/103271499400089b098f9f
 
-#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 2 PREMIUM .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/3988148462dcce7889041a
-
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS 2 PREMIUM 1080 LOCAL .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6863,6 +7049,12 @@ https://vavoo.to/vavoo-iptv/play/274077992117f3dcfd2140
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/222193893594fb44c7d213
+
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 3 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/662831764ca62f2ae133c
 
 #EXTINF:-1 group-title="FRANCE",BEIN SPORTS 3 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -7092,12 +7284,6 @@ https://vavoo.to/vavoo-iptv/play/3361859431e26d48a93ca2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1872232768c7c65ceb9862
 
-#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 4 HD LOCAL .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/427759040887e505f44dc9
-
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS 4 HQ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7151,12 +7337,6 @@ https://vavoo.to/vavoo-iptv/play/2831349556ef2c39a0d8e7
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3831757618ff599ed6d68c
-
-#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 5 FHD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1271051356bd403600a7ac
 
 #EXTINF:-1 group-title="TURKEY",BEIN SPORTS 5 FHD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -7265,6 +7445,12 @@ https://vavoo.to/vavoo-iptv/play/28453699195cf7af673e0b
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/574945512c95b0876edd0
+
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS 6 SD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/38140032662b38adb02d47
 
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS 7 (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -7404,6 +7590,12 @@ https://vavoo.to/vavoo-iptv/play/4217694788d1055b9c2a23
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2630530373ece2bd4a6337
 
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS AFC 1 FHD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1258183245f8fa0a0bf6ac
+
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS AFC 1 HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7536,6 +7728,12 @@ https://vavoo.to/vavoo-iptv/play/410187834328f4f2a2ebf6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/30588652428b796a2dad0c
 
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS ENGLISH 1 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/457686834400e5338040d
+
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS ENGLISH 2 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -7553,6 +7751,12 @@ https://vavoo.to/vavoo-iptv/play/496638848dc9701ca2a8c
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1513775440602e6bba17a4
+
+#EXTINF:-1 group-title="ARABIA",BEIN SPORTS ENGLISH HD3 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/17339701444a1c5d2e8a32
 
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS EXTRA 2 FHD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -7968,6 +8172,12 @@ https://vavoo.to/vavoo-iptv/play/3033678965da17f77fc6d2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/35745447496310ad38622d
 
+#EXTINF:-1 group-title="SPAIN",BEIN SPORTS N .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/5812925251f1a9e631d0e
+
 #EXTINF:-1 group-title="ARABIA",BEIN SPORTS NBA .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8081,6 +8291,12 @@ https://vavoo.to/vavoo-iptv/play/143239535a2e3c23c1d16
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1048399915c199ca602357
+
+#EXTINF:-1 group-title="ARABIA",BEINSPORT AR 1 PREMIUM .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/42527681725d54f8c73f
 
 #EXTINF:-1 group-title="ARABIA",BEINSPORT AR 2 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -8208,12 +8424,6 @@ https://vavoo.to/vavoo-iptv/play/3677880546b91991c857cd
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/6514779186cc7b7123e0b
 
-#EXTINF:-1 group-title="FRANCE",BERBERE TELEVISION .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2584606877de3d57849bfc
-
 #EXTINF:-1 group-title="FRANCE",BERBERE TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8249,6 +8459,12 @@ https://vavoo.to/vavoo-iptv/play/2714601883a57fff05a65f
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2046985544f1f622cf8b7b
+
+#EXTINF:-1 group-title="TURKEY",BEST AKSIYON .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/40086029281eab28e64579
 
 #EXTINF:-1 group-title="TURKEY",BEST ANIMASYON .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -8286,6 +8502,18 @@ https://vavoo.to/vavoo-iptv/play/4228481876db7dd6acf5b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/19675163050cdefd6160c5
 
+#EXTINF:-1 group-title="TURKEY",BEST KOMEDI .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/17233265984e83c5ef5947
+
+#EXTINF:-1 group-title="TURKEY",BEST KORKU .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2298271695faed3c96249f
+
 #EXTINF:-1 group-title="TURKEY",BEST LOCA 1 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8309,6 +8537,18 @@ https://vavoo.to/vavoo-iptv/play/116873446031ff5e217441
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/35317279904b909276b540
+
+#EXTINF:-1 group-title="TURKEY",BEST SALON 1 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2585357317352fbfd92833
+
+#EXTINF:-1 group-title="TURKEY",BEST SALON 2 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/37198947412070cf7796ed
 
 #EXTINF:-1 group-title="TURKEY",BEST SALON 3 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -8514,11 +8754,11 @@ https://vavoo.to/vavoo-iptv/play/25506320942a83c08d44c8
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/27579974836394c581d22d
 
-#EXTINF:-1 group-title="ALBANIA",BIG BROTHER 2 .b
+#EXTINF:-1 group-title="ALBANIA",BIG BROTHER 1 KS .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/38212591318bb321dacb56
+https://vavoo.to/vavoo-iptv/play/2163930146501f299993ea
 
 #EXTINF:-1 group-title="ALBANIA",BIG BROTHER 2 KS .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -8850,12 +9090,6 @@ https://vavoo.to/vavoo-iptv/play/359852554389c3b62437d4
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/36128412929fba395dd445
 
-#EXTINF:-1 group-title="GERMANY",BLUETV HISTORIE ʜᴅ .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/21518326221ebc0c1c1f9d
-
 #EXTINF:-1 group-title="GERMANY",BLUETV HORROR 1 ʜᴅ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -8868,17 +9102,17 @@ https://vavoo.to/vavoo-iptv/play/13571752139dbb0c175f51
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4253115827cdffd0ec9955
 
-#EXTINF:-1 group-title="GERMANY",BLUETV KRIEGSFILM ʜᴅ .b
+#EXTINF:-1 group-title="GERMANY",BLUETV KRIMI 1 ʜᴅ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/116223296934241aaf11dc
+https://vavoo.to/vavoo-iptv/play/31228905127e916582e0e4
 
-#EXTINF:-1 group-title="GERMANY",BLUETV MARVEL ʜᴅ .b
+#EXTINF:-1 group-title="GERMANY",BLUETV LIEBESFILM 1 ʜᴅ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2594145557bfa535038c3b
+https://vavoo.to/vavoo-iptv/play/1040893885c892f2f5c522
 
 #EXTINF:-1 group-title="GERMANY",BLUETV MYSTERY 1 ʜᴅ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -8982,6 +9216,12 @@ https://vavoo.to/vavoo-iptv/play/2930799000cd9ccb5e4641
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/69130693e2582f2056fe
 
+#EXTINF:-1 group-title="SPAIN",BOING .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/6361715592a11c0625d47
+
 #EXTINF:-1 group-title="ITALY",BOING .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -9005,6 +9245,12 @@ https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/98339825943cbbe1cacf2
+
+#EXTINF:-1 group-title="FRANCE",BOING HD .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1437877006a40eff9edadf
 
 #EXTINF:-1 group-title="RUSSIA",BOLLYWOOD .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -9240,6 +9486,12 @@ https://vavoo.to/vavoo-iptv/play/244918217714dad8496dfb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3916244172746880fe4783
 
+#EXTINF:-1 group-title="UNITED KINGDOM",BOX NATION .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/11316321752f64e88aba36
+
 #EXTINF:-1 group-title="UNITED KINGDOM",BOX NATION .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -9293,6 +9545,12 @@ https://vavoo.to/vavoo-iptv/play/29871323172d6843a0c088
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2406231085af769db66b41
+
+#EXTINF:-1 group-title="FRANCE",BOX OFFICE 6 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3368834813af03636320af
 
 #EXTINF:-1 group-title="FRANCE",BOX OFFICE 7 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -9431,6 +9689,12 @@ https://vavoo.to/vavoo-iptv/play/3703439052c33e853fc9e9
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/134086061839e644f1eaa
+
+#EXTINF:-1 group-title="BULGARIA",BSTV .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/44201513110b7f2cda236
 
 #EXTINF:-1 group-title="UNITED KINGDOM",BT SPORT 1 (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -9689,6 +9953,12 @@ https://vavoo.to/vavoo-iptv/play/1466744444864a5b0a6c46
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/5662411005fb9da9ddc5f
+
+#EXTINF:-1 group-title="UNITED KINGDOM",C4 L .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3373040735775ddfeb441a
 
 #EXTINF:-1 group-title="ARABIA",C5N .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -10116,6 +10386,24 @@ https://vavoo.to/vavoo-iptv/play/21972040810a253bce813e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/57169655106f0e8b6cee0
 
+#EXTINF:-1 group-title="ARABIA",CANAL 5 PICO TRUNCADO .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/9722766902535a09d253f
+
+#EXTINF:-1 group-title="ARABIA",CANAL 5 SANTA FE .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/331121556b25130d3b2f5
+
+#EXTINF:-1 group-title="ARABIA",CANAL 50 MORTEROS .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/205135009080cd741934b1
+
 #EXTINF:-1 group-title="SPAIN",CANAL 56 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -10350,6 +10638,12 @@ https://vavoo.to/vavoo-iptv/play/192645230664acfa58faa7
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/26416104866fb42ff4ebfa
 
+#EXTINF:-1 group-title="POLAND",CANAL HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/8671852307094ad4ebd22
+
 #EXTINF:-1 group-title="PORTUGAL",CANAL HOLLYWOOD .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -10458,6 +10752,12 @@ https://vavoo.to/vavoo-iptv/play/11117501570608a2d74ffb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3488639675fabee0bba896
 
+#EXTINF:-1 group-title="FRANCE",CANAL PLAY 1 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/962706596a08821c1ddcf
+
 #EXTINF:-1 group-title="FRANCE",CANAL PLAY 1 FHD .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -10476,6 +10776,12 @@ https://vavoo.to/vavoo-iptv/play/3350560308f1ae9b7a6c6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/32414215608c53bcad328c
 
+#EXTINF:-1 group-title="FRANCE",CANAL PLAY 12 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2257866792ce9b461da94a
+
 #EXTINF:-1 group-title="FRANCE",CANAL PLAY 13 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -10493,6 +10799,12 @@ https://vavoo.to/vavoo-iptv/play/164930952e4b00a3d6fd6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/884247608dd93524f8cb9
+
+#EXTINF:-1 group-title="FRANCE",CANAL PLAY 16 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/193075376859e75e04d8da
 
 #EXTINF:-1 group-title="FRANCE",CANAL PLAY 17 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -10830,6 +11142,12 @@ https://vavoo.to/vavoo-iptv/play/16750115622191e8b7fa50
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/143458825547e0ee044094
 
+#EXTINF:-1 group-title="FRANCE",CANAL+ F1 FHD .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/401626311591b144b76e6a
+
 #EXTINF:-1 group-title="POLAND",CANAL+ FAMILY .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -11075,6 +11393,12 @@ https://vavoo.to/vavoo-iptv/play/23768327380fdd2abc1caa
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1905836261d2b61c2c0344
+
+#EXTINF:-1 group-title="FRANCE",CANAL+ SPORT 5 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2966142802a95f1626785d
 
 #EXTINF:-1 group-title="POLAND",CANAL+ SPORT 5 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -11616,12 +11940,6 @@ https://vavoo.to/vavoo-iptv/play/12570875247999f55c155e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3350461588b63cec7784db
 
-#EXTINF:-1 group-title="UNITED KINGDOM",CBS JUSTICE .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/35951418956dcebde25ff
-
 #EXTINF:-1 group-title="UNITED KINGDOM",CBS JUSTICE .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -11675,6 +11993,12 @@ https://vavoo.to/vavoo-iptv/play/1019029636c4cb113f2b90
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1219133865f2e54935b978
+
+#EXTINF:-1 group-title="UNITED KINGDOM",CBS REALITY .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/4016413143f6ec3602e1f4
 
 #EXTINF:-1 group-title="POLAND",CBS REALITY HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -11747,6 +12071,12 @@ https://vavoo.to/vavoo-iptv/play/5112772450536f6b4cec0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/27908262410f9fcd27a389
+
+#EXTINF:-1 group-title="ARABIA",CGTN ARABIC .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2096629333f858d71af93d
 
 #EXTINF:-1 group-title="ARABIA",CGTN ARABIC .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -11898,6 +12228,12 @@ https://vavoo.to/vavoo-iptv/play/30333831378f81cec4990b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2674834370a1cac4b77989
 
+#EXTINF:-1 group-title="FRANCE",CHASSE ET PECHE .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2716078255804f649fb1be
+
 #EXTINF:-1 group-title="TURKEY",CHASSE ET PECHE .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -12017,6 +12353,12 @@ https://vavoo.to/vavoo-iptv/play/70355091549a4cadf1fb8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3770156444932d57f2bac0
+
+#EXTINF:-1 group-title="ARABIA",CIMA ALIBABA .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/53271749bca1e862852a
 
 #EXTINF:-1 group-title="FRANCE",CIN POLAR .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -12162,18 +12504,6 @@ https://vavoo.to/vavoo-iptv/play/351213883544926ea6dec5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/581219766ec0c08526620
 
-#EXTINF:-1 group-title="FRANCE",CINE+ CLASSIC FHD .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/581219766ec0c08526620
-
-#EXTINF:-1 group-title="FRANCE",CINE+ CLASSIC HD .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/3677483481c601971abf79
-
 #EXTINF:-1 group-title="FRANCE",CINE+ CLASSIC HD .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -12185,18 +12515,6 @@ https://vavoo.to/vavoo-iptv/play/3677483481c601971abf79
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1800537483f21c95207e51
-
-#EXTINF:-1 group-title="FRANCE",CINE+ CLUB .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1800537483f21c95207e51
-
-#EXTINF:-1 group-title="FRANCE",CINE+ CLUB .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/176726491979039c050819
 
 #EXTINF:-1 group-title="FRANCE",CINE+ CLUB .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -12348,6 +12666,12 @@ https://vavoo.to/vavoo-iptv/play/372000054721dfe68fc8a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2523260552ceca2601be19
 
+#EXTINF:-1 group-title="BALKANS",CINE+ SELECT 10 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3551062827397b8f6201d
+
 #EXTINF:-1 group-title="BALKANS",CINE+ SELECT 2 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -12384,11 +12708,23 @@ https://vavoo.to/vavoo-iptv/play/608516760a0f18b091d40
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/421860136616a52683f33
 
+#EXTINF:-1 group-title="BALKANS",CINE+ SELECT 9 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2786438473d71a288685d0
+
 #EXTINF:-1 group-title="FRANCE",CINE+ STAR HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3088532826307d0d32fb95
+
+#EXTINF:-1 group-title="ARABIA",CINE.AR .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/12243094358af5d3d6d094
 
 #EXTINF:-1 group-title="ARABIA",CINECANAL .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -12696,6 +13032,12 @@ https://vavoo.to/vavoo-iptv/play/425440450378b6ca4cf7d3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/378017425108d07b1c3f21
 
+#EXTINF:-1 group-title="BALKANS",CINESTAR ACTION .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1294430320bea354bd19b8
+
 #EXTINF:-1 group-title="BALKANS",CINESTAR ACTION TV .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -12744,11 +13086,23 @@ https://vavoo.to/vavoo-iptv/play/2024576859151796865e6c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2090315961562cc724aaad
 
+#EXTINF:-1 group-title="BALKANS",CINESTAR PREMIERE 2 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/105781185145982a642f0f
+
 #EXTINF:-1 group-title="BALKANS",CINESTAR PREMIERE 2 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/993512041e9ac371b57a1
+
+#EXTINF:-1 group-title="BALKANS",CINESTAR TV .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3677791084a678d0130879
 
 #EXTINF:-1 group-title="ALBANIA",CINESTAR TV 1 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -12833,12 +13187,6 @@ https://vavoo.to/vavoo-iptv/play/31425208128fea3b9f62a6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/64867122315863406b94c
-
-#EXTINF:-1 group-title="GERMANY",CITY TV .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/247446075793cebf0be6
 
 #EXTINF:-1 group-title="ALBANIA",CITY TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -13086,6 +13434,12 @@ https://vavoo.to/vavoo-iptv/play/3583754923288bb21bc8bc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/41338152650143743f9d7
 
+#EXTINF:-1 group-title="TURKEY",CNN TURK .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3278683973d0eaa4e57d76
+
 #EXTINF:-1 group-title="TURKEY",CNN TURK HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -13326,6 +13680,12 @@ https://vavoo.to/vavoo-iptv/play/1322483308506652cfc631
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 
+#EXTINF:-1 group-title="SPAIN",CONDAVISION .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/35197165222f257ecf630a
+
 #EXTINF:-1 group-title="ARABIA",COPTIC TV (720P) [NOT 24/7] .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -13403,6 +13763,12 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/39209772298f2649d42ed3
+
+#EXTINF:-1 group-title="SPAIN",CRIME & INVESTIGATION .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/40770152712a1df992b2f3
 
 #EXTINF:-1 group-title="BALKANS",CRIME & INVESTIGATION .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -13806,6 +14172,12 @@ https://vavoo.to/vavoo-iptv/play/1961185042b10f739237ce
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/333483699473fddd8c66b1
 
+#EXTINF:-1 group-title="ALBANIA",DARK POPULLORE .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1989300721383f42e62c72
+
 #EXTINF:-1 group-title="ALBANIA",DARK PRIME 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -13968,6 +14340,12 @@ https://vavoo.to/vavoo-iptv/play/13464368479556ecce2a7d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2267295660ea349d1224ad
 
+#EXTINF:-1 group-title="FRANCE",DAZN 1 LEAUGE 1 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3864281936f9bf6f8355bf
+
 #EXTINF:-1 group-title="GERMANY",DAZN 1 [LIVE DURING EVENTS ONLY] .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -14075,6 +14453,12 @@ https://vavoo.to/vavoo-iptv/play/17750922665f140b1ffc92
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/162211919344d3ba16b8d
+
+#EXTINF:-1 group-title="FRANCE",DAZN 2 LEAUGE 1 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2587190923e0ebf68f15d4
 
 #EXTINF:-1 group-title="GERMANY",DAZN 3 (MATCH TIME) HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -14424,12 +14808,6 @@ https://vavoo.to/vavoo-iptv/play/16605269833f4928bfeca7
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/38603091203c8aa5b2b224
 
-#EXTINF:-1 group-title="GERMANY",DB LIGA 8 FHD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/31751163743408c7769fee
-
 #EXTINF:-1 group-title="GERMANY",DB LIGA 8 HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -14573,6 +14951,24 @@ https://vavoo.to/vavoo-iptv/play/71803663997604b458e1d
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2843827303c20e5bbe9fe9
+
+#EXTINF:-1 group-title="GERMANY",DEUTSCHE SINEMA .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/364770966b47b15c9f4a4
+
+#EXTINF:-1 group-title="GERMANY",DEUTSCHE SPORT .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3690248614aeaba09f780b
+
+#EXTINF:-1 group-title="GERMANY",DEUTSCHES MUSIK .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/83996580450c8f75be565
 
 #EXTINF:-1 group-title="GERMANY",DEUTSCHES MUSIK FERNSEHEN .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -14838,6 +15234,18 @@ https://vavoo.to/vavoo-iptv/play/231764826926671978818a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/8847660680807874b7aa4
 
+#EXTINF:-1 group-title="TURKEY",DINAMIK DRAM .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2706562550a39918648f3c
+
+#EXTINF:-1 group-title="TURKEY",DINAMIK HABABAM SINIFI .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/8797094591490f7f3982f
+
 #EXTINF:-1 group-title="TURKEY",DINAMIK IMBD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -14885,6 +15293,12 @@ https://vavoo.to/vavoo-iptv/play/4138115962b6c2a5b9acde
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1558936074bb68c1ebd9d1
+
+#EXTINF:-1 group-title="TURKEY",DINAMIK SALON 1 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/428907828355b9b17b8fe5
 
 #EXTINF:-1 group-title="TURKEY",DINAMIK SALON 10 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -14963,6 +15377,12 @@ https://vavoo.to/vavoo-iptv/play/306993094f3cd5715860a
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/25718122083092d2f2bb94
+
+#EXTINF:-1 group-title="TURKEY",DINAMIK VIZYON .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3331045719b0c99b128adf
 
 #EXTINF:-1 group-title="TURKEY",DINAMIK WESTERN .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -15270,12 +15690,6 @@ https://vavoo.to/vavoo-iptv/play/307615184548fbf89e2e42
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/9700986623c97a7651f69
 
-#EXTINF:-1 group-title="FRANCE",DISCOVERY INVESTIGATION .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/995275984c7ebfb454071
-
 #EXTINF:-1 group-title="ROMANIA",DISCOVERY INVESTIGATION .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -15348,12 +15762,6 @@ https://vavoo.to/vavoo-iptv/play/665322372175c57c978d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/26216426445f249a5aee3a
 
-#EXTINF:-1 group-title="BALKANS",DISCOVERY SCIENCE .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/155549274625ae18b03ac5
-
 #EXTINF:-1 group-title="BULGARIA",DISCOVERY SCIENCE .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -15372,11 +15780,23 @@ https://vavoo.to/vavoo-iptv/play/1092400111134d4a3534ef
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3127261334b758be1ffb15
 
+#EXTINF:-1 group-title="TURKEY",DISCOVERY SCIENCE .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/10132204470a3c3b52576d
+
 #EXTINF:-1 group-title="BALKANS",DISCOVERY SCIENCE .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2253936606186d75d416e0
+
+#EXTINF:-1 group-title="BULGARIA",DISCOVERY SCIENCE .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/609687320299af51354b1
 
 #EXTINF:-1 group-title="FRANCE",DISCOVERY SCIENCE .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -15654,6 +16074,12 @@ https://vavoo.to/vavoo-iptv/play/500812292bac25bba2180
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1624576575a94e3212da5
 
+#EXTINF:-1 group-title="FRANCE",DISNEY CINEMA .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/13753937069c923e070773
+
 #EXTINF:-1 group-title="FRANCE",DISNEY CINEMA .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -15677,6 +16103,12 @@ https://vavoo.to/vavoo-iptv/play/2376875193e4cbfc48b8b8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2378322359ce6beb149e2d
+
+#EXTINF:-1 group-title="ARABIA",DISNEY HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/33845349697c66d1a39c03
 
 #EXTINF:-1 group-title="ALBANIA",DISNEY JR .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -15714,11 +16146,23 @@ https://vavoo.to/vavoo-iptv/play/1772892321058f7001d327
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4039125784a8c6af55cefd
 
+#EXTINF:-1 group-title="GERMANY",DISNEY JUNIOR (BACKUP) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/35285023817bfb6202b4d7
+
 #EXTINF:-1 group-title="FRANCE",DISNEY JUNIOR .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1244883752934afb7348d0
+
+#EXTINF:-1 group-title="GERMANY",DISNEY JUNIOR .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/14339680663b724fcafe95
 
 #EXTINF:-1 group-title="POLAND",DISNEY JUNIOR .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -15773,6 +16217,12 @@ https://vavoo.to/vavoo-iptv/play/408461551717ccc5b88f28
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/357894050d7f96e94e22f
+
+#EXTINF:-1 group-title="ARABIA",DISNEY JUNIOR HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3739835707f0c3a29b0451
 
 #EXTINF:-1 group-title="FRANCE",DISNEY JUNIOR HD .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -15864,6 +16314,12 @@ https://vavoo.to/vavoo-iptv/play/2551829420791b5b928702
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/23220966391db224d00af9
 
+#EXTINF:-1 group-title="ITALY",DISNEY+ FILM .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
+
 #EXTINF:-1 group-title="SPAIN",DISTRITO TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -15911,6 +16367,12 @@ https://vavoo.to/vavoo-iptv/play/4187786300653c6d1fa123
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/7492870848483dc9d62fb
+
+#EXTINF:-1 group-title="ARABIA",DIYALANA .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/91631337581e7285af1d3
 
 #EXTINF:-1 group-title="TURKEY",DIYANET TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -16092,6 +16554,36 @@ https://vavoo.to/vavoo-iptv/play/21053035966ce1790d86aa
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1419279689dc1b21f08ea7
 
+#EXTINF:-1 group-title="ARABIA",DMC KIDS .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2134999713bc1837c44109
+
+#EXTINF:-1 group-title="ARABIA",DMC MASRAHEYAT (BACKUP) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1396806612bc3f4b0626b0
+
+#EXTINF:-1 group-title="ARABIA",DMC MASRAHEYAT .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1917773206795c57595a86
+
+#EXTINF:-1 group-title="ARABIA",DMC NEWS .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1967363716a0d428b11e3e
+
+#EXTINF:-1 group-title="ARABIA",DMC SPORTS .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1229814740b79071423d9b
+
 #EXTINF:-1 group-title="BALKANS",DOBRA .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -16115,6 +16607,12 @@ https://vavoo.to/vavoo-iptv/play/956406027137e881be0d9
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/26415294977c79d9fdc90e
+
+#EXTINF:-1 group-title="BALKANS",DOBRA SVADBA .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/31263127931d7a7627f5e4
 
 #EXTINF:-1 group-title="BALKANS",DOBRA TRAVEL .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -16175,6 +16673,12 @@ https://vavoo.to/vavoo-iptv/play/1585099730502eeb0b85ab
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1778938190abef6584f7d4
+
+#EXTINF:-1 group-title="GERMANY",DOKUMENTATION .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/196474343111e0f530a0c6
 
 #EXTINF:-1 group-title="ARABIA",DOLLY MOSALSALAT .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -16254,11 +16758,23 @@ https://vavoo.to/vavoo-iptv/play/799884057e7cb32a0489c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2887131026a2ae810c9556
 
+#EXTINF:-1 group-title="GERMANY",DR RAMASJANG .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1249122834b047faba16d7
+
 #EXTINF:-1 group-title="GERMANY",DR1 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/30975865623eaf69964b4a
+
+#EXTINF:-1 group-title="GERMANY",DR2 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/427826005041b1be170154
 
 #EXTINF:-1 group-title="UNITED KINGDOM",DRAMA .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -16518,6 +17034,12 @@ https://vavoo.to/vavoo-iptv/play/105997458382a616bdf9e5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/214767018831dc00f358c3
 
+#EXTINF:-1 group-title="ARABIA",DUBAI ONE (FHD) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/28444511585e5c9658a6fd
+
 #EXTINF:-1 group-title="ARABIA",DUBAI ONE .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -16529,6 +17051,12 @@ https://vavoo.to/vavoo-iptv/play/26375967486b36a83b7d08
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/9428181995a5ad3c9b6af
+
+#EXTINF:-1 group-title="ARABIA",DUBAI RACING 2 (FHD) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/4037455397d701618c7d08
 
 #EXTINF:-1 group-title="ARABIA",DUBAI RACING 2 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -16578,11 +17106,23 @@ https://vavoo.to/vavoo-iptv/play/3374333899310e78634398
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/26840865076edb337caaf4
 
+#EXTINF:-1 group-title="ARABIA",DUBAI TV (576P) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/368061809681808b88888e
+
 #EXTINF:-1 group-title="ARABIA",DUBAI TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/14860846946a576e8ce67c
+
+#EXTINF:-1 group-title="ARABIA",DUBAI ZAMAN (FHD) [NOT 24/7] .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2710915569d88a5805b866
 
 #EXTINF:-1 group-title="ARABIA",DUBAI ZAMAN .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -16716,6 +17256,18 @@ https://vavoo.to/vavoo-iptv/play/184526225925a39505f18c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1234064310ebb2dada9023
 
+#EXTINF:-1 group-title="GERMANY",DYN SPORT 1 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/4939706396689225497ed
+
+#EXTINF:-1 group-title="GERMANY",DYN SPORT 10 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/42463225237f7f47aea6f7
+
 #EXTINF:-1 group-title="GERMANY",DYN SPORT 2 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -16728,17 +17280,35 @@ https://vavoo.to/vavoo-iptv/play/1523654175d237ed7b050e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1739667375b70564ce305e
 
+#EXTINF:-1 group-title="GERMANY",DYN SPORT 4 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/35831100797b94777c5371
+
+#EXTINF:-1 group-title="GERMANY",DYN SPORT 5 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/39081579678c20f5025270
+
+#EXTINF:-1 group-title="GERMANY",DYN SPORT 6 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/29413685430926e4f60080
+
+#EXTINF:-1 group-title="GERMANY",DYN SPORT 8 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/274794174aa92a1662e08
+
 #EXTINF:-1 group-title="GERMANY",DYN SPORT 9 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/7550523023dc07e7b57da
-
-#EXTINF:-1 group-title="BULGARIA",E KIDS .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1106460317d04f91dfa661
 
 #EXTINF:-1 group-title="RUSSIA",E TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -17112,6 +17682,12 @@ https://vavoo.to/vavoo-iptv/play/10548905366dd6dced3793
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1710359793116d4843c0bb
 
+#EXTINF:-1 group-title="ARABIA",EL SELLOARG: V MADARIAGA .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/86607063271bb3633e0c4
+
 #EXTINF:-1 group-title="SPAIN",EL TORO TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -17394,6 +17970,18 @@ https://vavoo.to/vavoo-iptv/play/178311678567a225e74dff
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/34662135034440faed2387
 
+#EXTINF:-1 group-title="ARABIA",ELHIWAR ETTOUNSI .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1912555772e9a3a39dbb61
+
+#EXTINF:-1 group-title="ARABIA",ELHIWAR ETTOUNSI TNT .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3844476974df2b1417e194
+
 #EXTINF:-1 group-title="TURKEY",ELIF VE ARKADASLARI .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -17574,6 +18162,12 @@ https://vavoo.to/vavoo-iptv/play/674011046bb6a873e899f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/15291938454b22bcbc1516
 
+#EXTINF:-1 group-title="ARABIA",ENIGMA HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/32967169764983e972d39b
+
 #EXTINF:-1 group-title="TURKEY",ENO AKSIYON 1 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -17585,6 +18179,12 @@ https://vavoo.to/vavoo-iptv/play/633768195851d6f914620
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/38337533385e11d005954b
+
+#EXTINF:-1 group-title="TURKEY",ENO TURK 1 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/22336872173761a2f4bc0f
 
 #EXTINF:-1 group-title="TURKEY",ENO VIZYON 1 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -17892,6 +18492,12 @@ https://vavoo.to/vavoo-iptv/play/363025435105949814b60a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/14844944587896c4c82c76
 
+#EXTINF:-1 group-title="SPAIN",ESPN .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2939432470f9c0dfb6dd2e
+
 #EXTINF:-1 group-title="NETHERLANDS",ESPN 1 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -18132,12 +18738,6 @@ https://vavoo.to/vavoo-iptv/play/13414995753cbbddc96ebe
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3348497268fbfb234dcab5
 
-#EXTINF:-1 group-title="BULGARIA",EUROFOLK TV .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/30797809139335b7704fdd
-
 #EXTINF:-1 group-title="FRANCE",EURONEWS .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -18263,6 +18863,12 @@ https://vavoo.to/vavoo-iptv/play/386098181d28e2cff9a9a
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/25495184398c97e1fbefd8
+
+#EXTINF:-1 group-title="SPAIN",EUROSPORT 1 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2423006885b7ccbf73b191
 
 #EXTINF:-1 group-title="UNITED KINGDOM",EUROSPORT 1 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -18444,6 +19050,12 @@ https://vavoo.to/vavoo-iptv/play/2737624792dea68aab9be4
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2924660569442cd197c7a9
 
+#EXTINF:-1 group-title="PORTUGAL",EUROSPORT 2 (BACKUP) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/5210413649af808380459
+
 #EXTINF:-1 group-title="SPAIN",EUROSPORT 2 (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -18467,6 +19079,12 @@ https://vavoo.to/vavoo-iptv/play/391453244816ed0170f0da
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/13528675415cc9406c27bb
+
+#EXTINF:-1 group-title="PORTUGAL",EUROSPORT 2 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3495357111684554a016fd
 
 #EXTINF:-1 group-title="SPAIN",EUROSPORT 2 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -18612,6 +19230,12 @@ https://vavoo.to/vavoo-iptv/play/136650226725e969c2837
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/622250285676d0314d4af
 
+#EXTINF:-1 group-title="FRANCE",EUROSPORT 2 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/38556843468cc613315ad7
+
 #EXTINF:-1 group-title="GERMANY",EUROSPORT 2 HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -18672,6 +19296,12 @@ https://vavoo.to/vavoo-iptv/play/1154695860cb2833dec190
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1309778674228351c44311
 
+#EXTINF:-1 group-title="SPAIN",EUROSPORT 3 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/27225633662edaae9cc410
+
 #EXTINF:-1 group-title="FRANCE",EUROSPORT 360 1 [LIVE DURING EVENTS ONLY] .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -18719,6 +19349,18 @@ https://vavoo.to/vavoo-iptv/play/3234583392dc7b794b7b6e
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/11174719213310d74931ad
+
+#EXTINF:-1 group-title="SPAIN",EUROSPORT 4 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2752412701e74afdf9b33
+
+#EXTINF:-1 group-title="SPAIN",EUROSPORT 5 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/755495046b3dab0609106
 
 #EXTINF:-1 group-title="PORTUGAL",EUROSPORT 6 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -19056,6 +19698,12 @@ https://vavoo.to/vavoo-iptv/play/13785006574afa11ae7c45
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/39337558511859255a6b56
 
+#EXTINF:-1 group-title="ALBANIA",FAMILY .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/25811092739c26919e2234
+
 #EXTINF:-1 group-title="NETHERLANDS",FAMILY 7 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -19067,6 +19715,12 @@ https://vavoo.to/vavoo-iptv/play/36375749836a7e9f33eab0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/453029930e6940d6e0858
+
+#EXTINF:-1 group-title="ARABIA",FAMILY DRAMA .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/16596076578b8593f36892
 
 #EXTINF:-1 group-title="ALBANIA",FAMILY HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -19200,6 +19854,12 @@ https://vavoo.to/vavoo-iptv/play/1540748539780d20f1eec6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/31629675780944e9fb9e6f
 
+#EXTINF:-1 group-title="GERMANY",FC BAYERN TV HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/217650915168b654708577
+
 #EXTINF:-1 group-title="UNITED KINGDOM",FC LIVERPOOL TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -19253,6 +19913,12 @@ https://vavoo.to/vavoo-iptv/play/5668075003399ed548656
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/31178316070438763e6cd4
+
+#EXTINF:-1 group-title="TURKEY",FIBERBOX KOMEDI .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/925277730aa02afb5c3f6
 
 #EXTINF:-1 group-title="TURKEY",FIBERBOX KORKU .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -19415,6 +20081,12 @@ https://vavoo.to/vavoo-iptv/play/892299779fe5979d9f5b3
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/202528438203e306654d6
+
+#EXTINF:-1 group-title="ALBANIA",FILM AUTOR .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/21364444861d3c9bc5dcdc
 
 #EXTINF:-1 group-title="ALBANIA",FILM AUTOR .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -19811,6 +20483,12 @@ https://vavoo.to/vavoo-iptv/play/649037744c2dc1e184764
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/260038761527e7e36c9554
+
+#EXTINF:-1 group-title="FRANCE",FILMRISE BINGE WATCH FRANCE .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/236350401630b431bc5bc8
 
 #EXTINF:-1 group-title="ARABIA",FILMSTREAM .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -20772,6 +21450,12 @@ https://vavoo.to/vavoo-iptv/play/46629016e7679725def2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/313998584681529d12508b
 
+#EXTINF:-1 group-title="UNITED KINGDOM",FREE SPORTS HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/39194016542d1ce7b3033
+
 #EXTINF:-1 group-title="FRANCE",FREQUENCE NOVELAS .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -20922,12 +21606,6 @@ https://vavoo.to/vavoo-iptv/play/69090998889d85c39212b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/27062335755ccbeb2ca7dd
 
-#EXTINF:-1 group-title="TURKEY",GAZIANTEP GRT TV .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/28430116980561d04db9e1
-
 #EXTINF:-1 group-title="TURKEY",GAZIANTEP OLAY TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -20994,11 +21672,11 @@ https://vavoo.to/vavoo-iptv/play/281511331327507555099b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/370851302566c07af6a125
 
-#EXTINF:-1 group-title="GERMANY",GERMANY KONIG FILME 3 .c
+#EXTINF:-1 group-title="GERMANY",GERMANY KONIG FILME 1 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2109715518f0ac5ee5ace5
+https://vavoo.to/vavoo-iptv/play/125822814bd98b1c911a9
 
 #EXTINF:-1 group-title="GERMANY",GERMANY KONIG FILME 4 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -21011,6 +21689,12 @@ https://vavoo.to/vavoo-iptv/play/34833306068f8e81b4984c
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4076814750fe8627730934
+
+#EXTINF:-1 group-title="GERMANY",GERMANY KONIG FILME 6 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/304291719849f7ffd5dabb
 
 #EXTINF:-1 group-title="ITALY",GIALLO .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -21119,6 +21803,12 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/382961786700f39d2d9590
+
+#EXTINF:-1 group-title="SPAIN",GOL .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/441554993480a547ec912
 
 #EXTINF:-1 group-title="SPAIN",GOL PLAY .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -21258,6 +21948,12 @@ https://vavoo.to/vavoo-iptv/play/2742752002f145006bf612
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/354108032116b58f2b62a4
 
+#EXTINF:-1 group-title="SPAIN",GRAN HERMANO .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/8979422162d5b6732949c
+
 #EXTINF:-1 group-title="BALKANS",GRAND 2 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -21329,6 +22025,12 @@ https://vavoo.to/vavoo-iptv/play/3655354868dd6c556ed21c
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/257753427816f6887294b8
+
+#EXTINF:-1 group-title="TURKEY",GS TV .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/424042932536399e482d69
 
 #EXTINF:-1 group-title="TURKEY",GSTV HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -21431,6 +22133,12 @@ https://vavoo.to/vavoo-iptv/play/40697740688fd0b8c6b747
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4144668031412a19aa2d0e
+
+#EXTINF:-1 group-title="TURKEY",HABER T RK HD+ SD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/32253354543986c7294970
 
 #EXTINF:-1 group-title="TURKEY",HABER TURK .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -21714,12 +22422,6 @@ https://vavoo.to/vavoo-iptv/play/3687432160be9ddda6bc05
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/6180748722d004f8e1962
 
-#EXTINF:-1 group-title="BALKANS",HBO 2 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/38284514511eb3b5d1d4a8
-
 #EXTINF:-1 group-title="BULGARIA",HBO 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -21737,6 +22439,12 @@ https://vavoo.to/vavoo-iptv/play/33297972034adf5d6786d5
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/424355883bebc1a7ecb56
+
+#EXTINF:-1 group-title="BALKANS",HBO 2 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/23150616886df6dcf74b43
 
 #EXTINF:-1 group-title="BULGARIA",HBO 2 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -21779,6 +22487,18 @@ https://vavoo.to/vavoo-iptv/play/1375527585b4957f04f2be
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/606798235b068fb5ffdfc
+
+#EXTINF:-1 group-title="BALKANS",HBO 3 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3030196232f1760064ca32
+
+#EXTINF:-1 group-title="BULGARIA",HBO 3 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/12607750047f2398a83033
 
 #EXTINF:-1 group-title="ROMANIA",HBO 3 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -22020,6 +22740,18 @@ https://vavoo.to/vavoo-iptv/play/399089485455b300e1d744
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/465385516521e9300c478
 
+#EXTINF:-1 group-title="UNITED KINGDOM",HIGH STREET TV 3 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/65202217200f550e60371
+
+#EXTINF:-1 group-title="UNITED KINGDOM",HIGH STREET TV 4 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/249966119626fb84fdeb02
+
 #EXTINF:-1 group-title="UNITED KINGDOM",HILLSONG .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -22254,12 +22986,6 @@ https://vavoo.to/vavoo-iptv/play/2428413220891b0ce33017
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/420748756258a17d4693fc
 
-#EXTINF:-1 group-title="UNITED KINGDOM",HISTORY UK .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/261314610223572f6f3aa0
-
 #EXTINF:-1 group-title="BALKANS",HIT BRCKO .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -22373,6 +23099,12 @@ https://vavoo.to/vavoo-iptv/play/789587426b6555f1d5b57
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/17563891705ac81ecb346a
+
+#EXTINF:-1 group-title="ARABIA",HOME CINEMA 08 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/361554773118aa993b415e
 
 #EXTINF:-1 group-title="ARABIA",HOME CINEMA 10 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -22751,12 +23483,6 @@ https://vavoo.to/vavoo-iptv/play/125503784320a11c11f7be
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3432303713967b479b7df9
-
-#EXTINF:-1 group-title="BULGARIA",ID EXTRA .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1285652493457356ee17d4
 
 #EXTINF:-1 group-title="RUSSIA",ID EXTRA .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -23405,12 +24131,6 @@ https://vavoo.to/vavoo-iptv/play/22474345352b7f6735b9fa
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/39730572654e7aa88778b3
-
-#EXTINF:-1 group-title="BULGARIA",JIM JAM .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1710746124e0f4737bb0c5
 
 #EXTINF:-1 group-title="ROMANIA",JIM JAM .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -24360,29 +25080,17 @@ https://vavoo.to/vavoo-iptv/play/3303484794c62142ac7ba2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/31476952887d95e567d9cc
 
-#EXTINF:-1 group-title="GERMANY",KINDERM RCHEN 1 .b
+#EXTINF:-1 group-title="GERMANY",KINDER SENDER .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/3130154617a45e4a374b4f
+https://vavoo.to/vavoo-iptv/play/10572654605e6e19b95e93
 
 #EXTINF:-1 group-title="GERMANY",KINDERM RCHEN 1 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3130154617a45e4a374b4f
-
-#EXTINF:-1 group-title="GERMANY",KINDERM RCHEN 2 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/42479218332575fb78ed38
-
-#EXTINF:-1 group-title="GERMANY",KINDERM RCHEN 2 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/42479218332575fb78ed38
 
 #EXTINF:-1 group-title="ALBANIA",KINEMA .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -24437,6 +25145,12 @@ https://vavoo.to/vavoo-iptv/play/32659974993e159a4c5fc0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/367205987e29472e32367
+
+#EXTINF:-1 group-title="RUSSIA",KINO PLUS .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2099562286cc9a519973d5
 
 #EXTINF:-1 group-title="POLAND",KINO POLSKA .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -24510,41 +25224,11 @@ https://vavoo.to/vavoo-iptv/play/2253851442bfb9950bbacf
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1972526918dd03cd0fcbb7
 
-#EXTINF:-1 group-title="GERMANY",KINOPORTAL 1 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/314988731969548acbb955
-
-#EXTINF:-1 group-title="GERMANY",KINOPORTAL 1 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/314988731969548acbb955
-
-#EXTINF:-1 group-title="GERMANY",KINOPORTAL 2 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/4229893511f54fcdd55e8d
-
-#EXTINF:-1 group-title="GERMANY",KINOPORTAL 3 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/32463350314b2b8473ade8
-
 #EXTINF:-1 group-title="GERMANY",KINOPORTAL 4 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1935669287a6cf54a9db74
-
-#EXTINF:-1 group-title="GERMANY",KINOPORTAL 5 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/13128052718f1b837846ae
 
 #EXTINF:-1 group-title="GERMANY",KINOPORTAL 6 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -24654,11 +25338,29 @@ https://vavoo.to/vavoo-iptv/play/11232583629829db41087d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4029432528db48968cab91
 
+#EXTINF:-1 group-title="ALBANIA",KLAN KOSOVA HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3340348124f6efced8e8d8
+
+#EXTINF:-1 group-title="ALBANIA",KLAN MACEDONIA .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1797959203264b43b4f5d4
+
 #EXTINF:-1 group-title="ALBANIA",KLAN MUSIC .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/205558434056ae7df54fed
+
+#EXTINF:-1 group-title="ALBANIA",KLAN MUSIC .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1985984826876ee067a8d6
 
 #EXTINF:-1 group-title="ALBANIA",KLAN NEWS .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -24695,6 +25397,12 @@ https://vavoo.to/vavoo-iptv/play/1728418097670d821adc67
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3344417331ba5b41052540
+
+#EXTINF:-1 group-title="ALBANIA",KLAN TV .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/210579572724305a6cef90
 
 #EXTINF:-1 group-title="ALBANIA",KLAN TV HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -25044,12 +25752,6 @@ https://vavoo.to/vavoo-iptv/play/27802929442b3ea3b180a8
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3793198464d709585d87d4
 
-#EXTINF:-1 group-title="ARABIA",KSA SSC 1 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/27695029987a2d5ade06d
-
 #EXTINF:-1 group-title="ARABIA",KSA SSC 2 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -25146,53 +25848,17 @@ https://vavoo.to/vavoo-iptv/play/200481820cb861e4ed517
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/915617196e0a075f77626
 
-#EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 04 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/22263832928a8709991099
-
 #EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 05 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3117662220ef6b9a54c258
 
-#EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 06 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/4268997340b932054cbdb7
-
 #EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 07 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/327284004456dd1afad92a
-
-#EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 08 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/10949111659d885b2a685c
-
-#EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 09 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2082680077d0c87ce94e59
-
-#EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 10 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/3127876825e883b1a00587
-
-#EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 11 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2265953641aba550a850c3
 
 #EXTINF:-1 group-title="ARABIA",KSA|IEN DOROS 12 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -25211,6 +25877,12 @@ https://vavoo.to/vavoo-iptv/play/1723985095efe29533ce28
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/415081315956e72dc2800e
+
+#EXTINF:-1 group-title="ALBANIA",KSPORT 2 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2965904183af79a368264c
 
 #EXTINF:-1 group-title="FRANCE",KTO .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -25235,6 +25907,12 @@ https://vavoo.to/vavoo-iptv/play/38964828365b9d7589cb02
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/154879304041c96ee5cae6
+
+#EXTINF:-1 group-title="ALBANIA",KTV HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2038668692039ce313e127
 
 #EXTINF:-1 group-title="ALBANIA",KTV KOHAVISION .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -25434,6 +26112,12 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
 
+#EXTINF:-1 group-title="ITALY",LA 7 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
+
 #EXTINF:-1 group-title="ITALY",LA 7 D .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -25464,6 +26148,12 @@ https://vavoo.to/vavoo-iptv/play/113813193cc8c8ce7408e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2136022010abfd1159ec5f
 
+#EXTINF:-1 group-title="SPAIN",LA LIGA TV BAR HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/109394788368c854fb799
+
 #EXTINF:-1 group-title="SPAIN",LA LIGA TV HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -25493,6 +26183,12 @@ https://vavoo.to/vavoo-iptv/play/3894526183af41b9b1aebc
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/26600272080d09932cd976
+
+#EXTINF:-1 group-title="SPAIN",LA SEXTA HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
 
 #EXTINF:-1 group-title="ITALY",LA TR3 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -25602,18 +26298,6 @@ https://vavoo.to/vavoo-iptv/play/1525159345270735046f7b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 
-#EXTINF:-1 group-title="ARABIA",LBC EUROPE .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/28315478953cfe4c57291d
-
-#EXTINF:-1 group-title="ARABIA",LBC HD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/620189885d80f0f9ce1ae
-
 #EXTINF:-1 group-title="ARABIA",LBC INTERNATIONAL .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -25709,12 +26393,6 @@ https://vavoo.to/vavoo-iptv/play/651059749c5aad4d1565b
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/528021399004e91a38c73
-
-#EXTINF:-1 group-title="ARABIA",LIBYA 218 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/923775705b0321eb7ebb6
 
 #EXTINF:-1 group-title="ARABIA",LIBYA 218 NEWS .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -25853,12 +26531,6 @@ https://vavoo.to/vavoo-iptv/play/4264490284e47ee0937d0f
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/37824741797c3dd1772d5a
-
-#EXTINF:-1 group-title="ARABIA",LIKE GECKO) MOBILE/15E148 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/42477167427ebe08ee74c
 
 #EXTINF:-1 group-title="TURKEY",LIMON ZEYTIN .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -26064,12 +26736,6 @@ https://vavoo.to/vavoo-iptv/play/10782221721cd1db332b6b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/156745934688c6483e5784
 
-#EXTINF:-1 group-title="ARABIA",LTV (360P) .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/83466578933071d465e01
-
 #EXTINF:-1 group-title="FRANCE",LUCKY JACK TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -26189,12 +26855,6 @@ https://vavoo.to/vavoo-iptv/play/2264106144b28f5fffc5e3
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3435456326462b8ebc1f88
-
-#EXTINF:-1 group-title="FRANCE",M6 FHD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/381306877060a38e6f63e1
 
 #EXTINF:-1 group-title="FRANCE",M6 HD .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -26465,12 +27125,6 @@ https://vavoo.to/vavoo-iptv/play/3545622272c7a59aad977f
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3059390165e8da43c8870c
-
-#EXTINF:-1 group-title="GERMANY",MAGENTA SPORT 3 .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/287978760d084d97c8959
 
 #EXTINF:-1 group-title="GERMANY",MAGENTA SPORT 4 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -27024,6 +27678,12 @@ https://vavoo.to/vavoo-iptv/play/1383207750c246a09ee126
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/226827313717bca70accfc
 
+#EXTINF:-1 group-title="TURKEY",MAX 007 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2857813786727202097e05
+
 #EXTINF:-1 group-title="TURKEY",MAX ANIMASYON 1 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -27557,6 +28217,12 @@ https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
+
+#EXTINF:-1 group-title="ITALY",MEDIASET INFINITY+ 2 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 
 #EXTINF:-1 group-title="ITALY",MEDIASET INFINITY+ 5 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -28350,6 +29016,12 @@ https://vavoo.to/vavoo-iptv/play/21783643006813b50b82f3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/206881304258fd20807f89
 
+#EXTINF:-1 group-title="GERMANY",MOVIES CH .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1654682088b73afada8f4b
+
 #EXTINF:-1 group-title="ARABIA",MOVIES COMEDY .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -28464,6 +29136,12 @@ https://vavoo.to/vavoo-iptv/play/35853079803a969402d0f0
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/18268394702984cdfbbbfd
 
+#EXTINF:-1 group-title="SPAIN",MOVISTAR GOLF HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/270348081642e70ee27d38
+
 #EXTINF:-1 group-title="SPAIN",MOVISTAR LA LIGA (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -28488,6 +29166,12 @@ https://vavoo.to/vavoo-iptv/play/19696741218d7802533835
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/851881305a0fa02c31df2
 
+#EXTINF:-1 group-title="SPAIN",MOVISTAR LA LIGA 3 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/262571241af1412d0bd59
+
 #EXTINF:-1 group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -28505,6 +29189,18 @@ https://vavoo.to/vavoo-iptv/play/1079960250bf7fa0932bdc
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/99407471309612174606f
+
+#EXTINF:-1 group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2761614279e0fedd97652a
+
+#EXTINF:-1 group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 4 HD (ONLY EVENT) .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3447547295cda5cb391fdc
 
 #EXTINF:-1 group-title="SPAIN",MOVISTAR SERIES HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -28746,12 +29442,6 @@ https://vavoo.to/vavoo-iptv/play/146426494545643f06647e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/173657216219bdee1eedf9
 
-#EXTINF:-1 group-title="SPAIN",MTV ESPANA .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2061606272b17390f38840
-
 #EXTINF:-1 group-title="SPAIN",MTV ESPANA .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -28823,6 +29513,12 @@ https://vavoo.to/vavoo-iptv/play/3253245476321cb4e48269
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/34845232116483a08b3a9c
+
+#EXTINF:-1 group-title="FRANCE",MTV HITS HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/535554945a9ea8db54e56
 
 #EXTINF:-1 group-title="GERMANY",MTV HITS HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -28925,6 +29621,18 @@ https://vavoo.to/vavoo-iptv/play/35586821756dbad9fb0617
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/8236585817cbb8f75594b
+
+#EXTINF:-1 group-title="UNITED KINGDOM",MTV ROCKS .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/28009392904c326029cf7a
+
+#EXTINF:-1 group-title="RUSSIA",MTV YO! .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1564351647b5f4c9a01611
 
 #EXTINF:-1 group-title="GERMANY",MUENCHEN .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -29093,6 +29801,12 @@ https://vavoo.to/vavoo-iptv/play/41213830783ba8d9c21a94
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2361384741ed45e702bc08
+
+#EXTINF:-1 group-title="GERMANY",MUSIK .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3030555861082b425cf549
 
 #EXTINF:-1 group-title="TURKEY",MUSLUM GURSES .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -29532,12 +30246,6 @@ https://vavoo.to/vavoo-iptv/play/1176264166c3fe9895c2cc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1428792459dd86f1c5464b
 
-#EXTINF:-1 group-title="GERMANY",NAT GEO .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/3763693854ca571680c944
-
 #EXTINF:-1 group-title="ITALY",NAT GEO .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -29657,12 +30365,6 @@ https://vavoo.to/vavoo-iptv/play/31910340748575567b2bde
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3093560896aaad81a502d3
-
-#EXTINF:-1 group-title="FRANCE",NAT GEO WILD .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/4163250572cb7f669550a4
 
 #EXTINF:-1 group-title="GERMANY",NAT GEO WILD .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -30066,12 +30768,6 @@ https://vavoo.to/vavoo-iptv/play/3640110143f6820e37e84d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2146269052f9754f9b47d1
 
-#EXTINF:-1 group-title="UNITED KINGDOM",NEW VISION TV .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/22464850170fe128fcc323
-
 #EXTINF:-1 group-title="ARABIA",NEWS .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -30312,12 +31008,6 @@ https://vavoo.to/vavoo-iptv/play/11126054570e52538ced1d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2786840044bbf88bfbe8f7
 
-#EXTINF:-1 group-title="ARABIA",NICKELODEON .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/8183454415f55b3fb5386
-
 #EXTINF:-1 group-title="FRANCE",NICKELODEON .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -30462,6 +31152,12 @@ https://vavoo.to/vavoo-iptv/play/30925623016e4c1bb5c343
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2904184817215153f410a2
 
+#EXTINF:-1 group-title="FRANCE",NICKELODEON 4 TEEN .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3199219011710e9ef1e081
+
 #EXTINF:-1 group-title="ROMANIA",NICKELODEON HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -30486,6 +31182,12 @@ https://vavoo.to/vavoo-iptv/play/615663221d1c60be068e3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/503443750d4adaa3772e8
 
+#EXTINF:-1 group-title="FRANCE",NICKELODEON HD .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/8441224898b46c4cc3c5d
+
 #EXTINF:-1 group-title="BALKANS",NICKELODEON HR .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -30498,11 +31200,41 @@ https://vavoo.to/vavoo-iptv/play/5439179005532ebeddc3b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1246262761880d74bf9ed1
 
+#EXTINF:-1 group-title="FRANCE",NICKELODEON JR .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2419624528420a9221f9fc
+
+#EXTINF:-1 group-title="FRANCE",NICKELODEON JUNIOR .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/32602912004b35140c9b0a
+
+#EXTINF:-1 group-title="FRANCE",NICKELODEON JUNIOR .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2600378206c4151e6fe1dd
+
 #EXTINF:-1 group-title="RUSSIA",NICKELODEON JUNIOR .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/40482107861401804e64fe
+
+#EXTINF:-1 group-title="FRANCE",NICKELODEON TEEN .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2578758168e3aad115a29c
+
+#EXTINF:-1 group-title="FRANCE",NICKELODEON TEEN .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3401954916adedfcb13f0c
 
 #EXTINF:-1 group-title="FRANCE",NICKELODEON TEEN .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -30672,6 +31404,12 @@ https://vavoo.to/vavoo-iptv/play/7574359887b7da4595e2a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2077464868cb06bc6cce9c
 
+#EXTINF:-1 group-title="GERMANY",NITRO .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/37113674340e202ce3537
+
 #EXTINF:-1 group-title="GERMANY",NITRO HEVC .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -30701,12 +31439,6 @@ https://vavoo.to/vavoo-iptv/play/2741142705694da2736533
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/228976702307606984187d
-
-#EXTINF:-1 group-title="GERMANY",NOA 4 NORDERSTEDT .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/29976201795010432fe668
 
 #EXTINF:-1 group-title="ARABIA",NOGOUM FM TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -30905,6 +31637,12 @@ https://vavoo.to/vavoo-iptv/play/3208882953c74bcea6998d
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/32481930384d590f581e25
+
+#EXTINF:-1 group-title="FRANCE",NOVELAS HD .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/215687074c5e526fe2816
 
 #EXTINF:-1 group-title="FRANCE",NOVELAS TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -31236,6 +31974,12 @@ https://vavoo.to/vavoo-iptv/play/3337128760a75a9d1ccea7
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/31645146969d653b3c12ef
 
+#EXTINF:-1 group-title="TURKEY",NTV HABER .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/123731096406a8cd66fdf9
+
 #EXTINF:-1 group-title="TURKEY",NTV HABER HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -31560,6 +32304,12 @@ https://vavoo.to/vavoo-iptv/play/171300141984d26c496a04
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/143299977882ac15ec179b
 
+#EXTINF:-1 group-title="FRANCE",OL TV .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/25877338965f52a676e785
+
 #EXTINF:-1 group-title="ITALY",OL3 RADIO .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -31824,6 +32574,12 @@ https://vavoo.to/vavoo-iptv/play/4157022718ed8873af90ec
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/32415533842de135e6b17d
 
+#EXTINF:-1 group-title="RUSSIA",ONE.BY RUS .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2650429775faf97de6cd9c
+
 #EXTINF:-1 group-title="GERMANY",ONEBY .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -31991,6 +32747,12 @@ https://vavoo.to/vavoo-iptv/play/27625464117f21630d780e
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/25801004435c22f35a7b7f
+
+#EXTINF:-1 group-title="ROMANIA",ORANGE SPORT 1 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/37315014659dbba6be44c2
 
 #EXTINF:-1 group-title="ROMANIA",ORANGE SPORT 2 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -32748,6 +33510,12 @@ https://vavoo.to/vavoo-iptv/play/100518206866621c3cd44e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/40939934978157c1083bde
 
+#EXTINF:-1 group-title="BALKANS",PINK 3 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/109704644981092d98042
+
 #EXTINF:-1 group-title="BALKANS",PINK 3 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -32771,6 +33539,12 @@ https://vavoo.to/vavoo-iptv/play/2418271268308aceed5b0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2333021344470c58491150
+
+#EXTINF:-1 group-title="BALKANS",PINK BH .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/13547664515c4d52a0b3ce
 
 #EXTINF:-1 group-title="BALKANS",PINK BRAVO .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -32994,6 +33768,12 @@ https://vavoo.to/vavoo-iptv/play/3278309033f77dbf4d17aa
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2231709942e6f923259f15
 
+#EXTINF:-1 group-title="BALKANS",PINK PEDIA .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2231709942e6f923259f15
+
 #EXTINF:-1 group-title="BALKANS",PINK PEDIA .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -33071,6 +33851,12 @@ https://vavoo.to/vavoo-iptv/play/4198860512d52937998194
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3210378316485429941ac3
+
+#EXTINF:-1 group-title="BALKANS",PINK SHOW .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/8178938385fecf3e7109e
 
 #EXTINF:-1 group-title="BALKANS",PINK SHOW .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -33155,6 +33941,12 @@ https://vavoo.to/vavoo-iptv/play/2757177620196e5468f142
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/16567203849c653dfcba8b
+
+#EXTINF:-1 group-title="TURKEY",PISI .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3728165823dca073d0a662
 
 #EXTINF:-1 group-title="TURKEY",PISI .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -34296,12 +35088,6 @@ https://vavoo.to/vavoo-iptv/play/756654497f6c92be603ad
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1793902345ba4e8f87b805
 
-#EXTINF:-1 group-title="GERMANY",PRO7 MAXX HEVC .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1913066493061991c54bfc
-
 #EXTINF:-1 group-title="GERMANY",PROSIEBEN .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -34734,6 +35520,12 @@ https://vavoo.to/vavoo-iptv/play/134593819896de880e0af6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/875922788627becc98639
 
+#EXTINF:-1 group-title="ITALY",RAI 1 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
+
 #EXTINF:-1 group-title="ITALY",RAI 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -34799,12 +35591,6 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-
-#EXTINF:-1 group-title="ITALY",RAI ITALIA .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 
 #EXTINF:-1 group-title="ITALY",RAI MOVIE .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -34914,6 +35700,12 @@ https://vavoo.to/vavoo-iptv/play/895549735ba15b8335b19
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/12875177589ce7d61e7aa6
 
+#EXTINF:-1 group-title="ITALY",RAKUTEN ACTION MOVIES .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+
 #EXTINF:-1 group-title="NETHERLANDS",RAKUTEN COMEDY .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -34926,17 +35718,11 @@ https://vavoo.to/vavoo-iptv/play/3421755691a47118599e51
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1133586429804a9733ad62
 
-#EXTINF:-1 group-title="GERMANY",RAKUTEN COMEDY MOVIES .s
+#EXTINF:-1 group-title="GERMANY",RAKUTEN COMEDY MOVIES 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/30879969086694f4aa311a
-
-#EXTINF:-1 group-title="ITALY",RAKUTEN COMEDY MOVIES .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
+https://vavoo.to/vavoo-iptv/play/3499073467ddd56c695b90
 
 #EXTINF:-1 group-title="FRANCE",RAKUTEN COMEDY MOVIES FRANCE .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -34980,6 +35766,12 @@ https://vavoo.to/vavoo-iptv/play/34715161322124e3c78679
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3557692300ca02256bc720
 
+#EXTINF:-1 group-title="GERMANY",RAKUTEN SPOTLIGHT .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/60685229118e664291ddf
+
 #EXTINF:-1 group-title="FRANCE",RAKUTEN SPOTLIGHT FRANCE .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -35015,12 +35807,6 @@ https://vavoo.to/vavoo-iptv/play/1713644642ee0b52d2a1eb
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1390548733715f00059162
-
-#EXTINF:-1 group-title="FRANCE",RAKUTEN TV BBC DOCTOR WHO FRANCE .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/4178756073a17f0c491d58
 
 #EXTINF:-1 group-title="FRANCE",RAKUTEN TV BBC DRAMA .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -35064,18 +35850,6 @@ https://vavoo.to/vavoo-iptv/play/34184806827df1037defd3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3643189038f63e601cf626
 
-#EXTINF:-1 group-title="FRANCE",RAKUTEN TV ROMANCE .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/31512084432c1668347f8
-
-#EXTINF:-1 group-title="FRANCE",RAKUTEN TV ROMANCE 2 .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1889679296218b2c32f64e
-
 #EXTINF:-1 group-title="FRANCE",RAKUTEN TV SHOWS .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -35093,6 +35867,12 @@ https://vavoo.to/vavoo-iptv/play/1725615682cb295bc6f152
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
+
+#EXTINF:-1 group-title="GERMANY",RAKUTEN TV SHOWS 2 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3416458367f72f505ffd2f
 
 #EXTINF:-1 group-title="FRANCE",RAKUTEN TV TOP FILMS .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -35658,17 +36438,23 @@ https://vavoo.to/vavoo-iptv/play/2639500260d2bc1d613f18
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/26877445960b0387b6b8e5
 
-#EXTINF:-1 group-title="FRANCE",RMC SPORT 16 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1431047598ad121808116b
-
 #EXTINF:-1 group-title="FRANCE",RMC SPORT 16 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/38852199726fa0c900bb0d
+
+#EXTINF:-1 group-title="FRANCE",RMC SPORT 17 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3673418036295f31622f35
+
+#EXTINF:-1 group-title="FRANCE",RMC SPORT 18 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/148710986146a036ede5c4
 
 #EXTINF:-1 group-title="FRANCE",RMC SPORT 2 (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -35886,17 +36672,11 @@ https://vavoo.to/vavoo-iptv/play/425544469138297bd647ca
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/8230620938326140591cc
 
-#EXTINF:-1 group-title="FRANCE",RMC SPORT LIVE 16 HD .b
+#EXTINF:-1 group-title="FRANCE",RMC SPORT LIVE 5 HD (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/3212962222c366b650a51d
-
-#EXTINF:-1 group-title="FRANCE",RMC SPORT LIVE 5 HD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/34525715582e9f5094be7b
+https://vavoo.to/vavoo-iptv/play/41715645264a1b399848f2
 
 #EXTINF:-1 group-title="FRANCE",RMC SPORT LIVE 6 HD (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -35928,23 +36708,11 @@ https://vavoo.to/vavoo-iptv/play/24148072590d63bcae2cb3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3927680764c9e05a6809f5
 
-#EXTINF:-1 group-title="FRANCE",RMC SPORT LIVE 8 HD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/14564133030b5db1ad73dd
-
 #EXTINF:-1 group-title="FRANCE",RMC SPORT LIVE 9 HD (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1841130943c007f405ecf9
-
-#EXTINF:-1 group-title="FRANCE",RMC SPORT LIVE 9 HD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2590317289d27fd8bcf3ea
 
 #EXTINF:-1 group-title="FRANCE",RMC SPORT NEWS FHD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -36149,6 +36917,12 @@ https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+
+#EXTINF:-1 group-title="ITALY",RSI LA 2 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 
 #EXTINF:-1 group-title="ITALY",RSI LA 2 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -36396,18 +37170,6 @@ https://vavoo.to/vavoo-iptv/play/3238173013b86b91bd879e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3755683281b1e5fd9dbe20
 
-#EXTINF:-1 group-title="ITALY",RTL 102.5 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
-
-#EXTINF:-1 group-title="ITALY",RTL 102.5 .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
-
 #EXTINF:-1 group-title="BALKANS",RTL 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -36600,6 +37362,12 @@ https://vavoo.to/vavoo-iptv/play/20292744146321cd738b0f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/31719353027224088538fb
 
+#EXTINF:-1 group-title="GERMANY",RTL LIVING .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1949189696eba707f6538b
+
 #EXTINF:-1 group-title="GERMANY",RTL LIVING HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -36744,6 +37512,12 @@ https://vavoo.to/vavoo-iptv/play/6489009239cfacbf98e03
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/28775826376d4353b0d91d
 
+#EXTINF:-1 group-title="GERMANY",RTL ZWEI .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/289174175313063e65f7dc
+
 #EXTINF:-1 group-title="GERMANY",RTL ZWEI HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -36767,6 +37541,12 @@ https://vavoo.to/vavoo-iptv/play/1853551406e4d58cd366f9
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1162290744806086b642e4
+
+#EXTINF:-1 group-title="GERMANY",RTL+ SPORT EVENT 2 .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/702188030d3d5a2294bd5
 
 #EXTINF:-1 group-title="GERMANY",RTL+ SPORT EVENT 3 .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -37145,6 +37925,12 @@ https://vavoo.to/vavoo-iptv/play/31439322500b3665fc745e
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/15882507760f6f17f18162
+
+#EXTINF:-1 group-title="ALBANIA",RTSH MUZIKE .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/394326970766da5d3be2e8
 
 #EXTINF:-1 group-title="ALBANIA",RTSH MUZIKE .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -37716,6 +38502,12 @@ https://vavoo.to/vavoo-iptv/play/23374016205e19c3f24c0
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/94017294085b1ba91b5d5
 
+#EXTINF:-1 group-title="RUSSIA",RUSSIA ROMAN .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1182937954ef287bcd4b63
+
 #EXTINF:-1 group-title="RUSSIA",RUSSIA TODAY .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -37770,6 +38562,12 @@ https://vavoo.to/vavoo-iptv/play/1313768516926dc999c43b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1234604880d226de6d47be
 
+#EXTINF:-1 group-title="TURKEY",S SPORT+3 MAC SAATI .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3269372326de5ff1a4d9d7
+
 #EXTINF:-1 group-title="TURKEY",S SPORT+4 MAC SAATI .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -37817,6 +38615,12 @@ https://vavoo.to/vavoo-iptv/play/919993168ebbbfbeecc50
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/403604621968c940720735
+
+#EXTINF:-1 group-title="TURKEY",S-SPORT+1 MAC SAATI .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2559756791dcf166140367
 
 #EXTINF:-1 group-title="TURKEY",S-SPORT+2 MAC SAATI .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -37871,6 +38675,12 @@ https://vavoo.to/vavoo-iptv/play/1378077721a926ab11da69
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/8699066146e03cbf16d62
+
+#EXTINF:-1 group-title="GERMANY",S. SPORT 2 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/4036156654808827d2303
 
 #EXTINF:-1 group-title="GERMANY",S. SPORT 3 FHD (MATCH TIME) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -38028,6 +38838,12 @@ https://vavoo.to/vavoo-iptv/play/7289585017501decc9ccb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/112128314f33b3baef6ad
 
+#EXTINF:-1 group-title="GERMANY",S. SPORT TOP EVENT HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/36731518974ab783c8f794
+
 #EXTINF:-1 group-title="UNITED KINGDOM",S4C .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -38039,6 +38855,18 @@ https://vavoo.to/vavoo-iptv/play/10913752025cf9b50049b7
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1049807868f8784253827e
+
+#EXTINF:-1 group-title="GERMANY",SAARLAND FERNSEHEN 1 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/10309455363ed04de73017
+
+#EXTINF:-1 group-title="GERMANY",SAARLAND FERNSEHEN 2 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/20606161440383774bfbf6
 
 #EXTINF:-1 group-title="UNITED KINGDOM",SAB TV .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -38196,6 +39024,18 @@ https://vavoo.to/vavoo-iptv/play/4130725512e79bb3d79f2d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/894226831d4433b6f8f78
 
+#EXTINF:-1 group-title="ARABIA",SANTA FE ARG: CANAL .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/894226831d4433b6f8f78
+
+#EXTINF:-1 group-title="ARABIA",SANTA FE CANAL .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2374270485a2e629738f7b
+
 #EXTINF:-1 group-title="ARABIA",SANTA FE CANAL .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -38207,6 +39047,18 @@ https://vavoo.to/vavoo-iptv/play/2374270485a2e629738f7b
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2323037545081ee0f9ea5b
+
+#EXTINF:-1 group-title="ARABIA",SANTA FE CANAL .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2323037545081ee0f9ea5b
+
+#EXTINF:-1 group-title="ARABIA",SANTA MARIA TV .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2308922641dfeef9b9e92b
 
 #EXTINF:-1 group-title="ARABIA",SANTA MARIA TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -39198,6 +40050,12 @@ https://vavoo.to/vavoo-iptv/play/2789249461c1ad5d07b17a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/14694844750eea4e90973f
 
+#EXTINF:-1 group-title="TURKEY",SINEMAX KOMEDI .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/56581376296a68bfac79f
+
 #EXTINF:-1 group-title="TURKEY",SINEMAX TURK .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -39300,6 +40158,12 @@ https://vavoo.to/vavoo-iptv/play/38334830340b3e0ebfcab
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/17662417455982b1730d90
 
+#EXTINF:-1 group-title="TURKEY",SIVAS .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/9857690718548a212a15f
+
 #EXTINF:-1 group-title="TURKEY",SIVAS VIZYON 58 TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -39395,6 +40259,12 @@ https://vavoo.to/vavoo-iptv/play/149550166636630e709d1c
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4274270452b8abfc26fc9b
+
+#EXTINF:-1 group-title="GERMANY",SKY ACTION .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/19762468280bf7954488ac
 
 #EXTINF:-1 group-title="GERMANY",SKY ACTION .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -39515,6 +40385,12 @@ https://vavoo.to/vavoo-iptv/play/350456154001728f296c1e
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1102498392168d5b317769
+
+#EXTINF:-1 group-title="GERMANY",SKY BEST OF HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2022058191705953efe5bd
 
 #EXTINF:-1 group-title="GERMANY",SKY BEST OF HD+ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -40032,6 +40908,12 @@ https://vavoo.to/vavoo-iptv/play/1506084946f625257b4975
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/7675679855208c3fbe478
 
+#EXTINF:-1 group-title="GERMANY",SKY CINEMA BEST OF HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/4183661289bea5151c6e22
+
 #EXTINF:-1 group-title="GERMANY",SKY CINEMA BEST OF HD+ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -40158,6 +41040,12 @@ https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 
+#EXTINF:-1 group-title="GERMANY",SKY CINEMA EMOTION .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/75068099388ef97789690
+
 #EXTINF:-1 group-title="GERMANY",SKY CINEMA EMOTION .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -40223,12 +41111,6 @@ https://vavoo.to/vavoo-iptv/play/4279471443ec5da7eed5e1
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2536879797b1c98070188
-
-#EXTINF:-1 group-title="GERMANY",SKY CINEMA FUN HD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/2703750927c3c65ac8a7d0
 
 #EXTINF:-1 group-title="UNITED KINGDOM",SKY CINEMA GREATS .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -40307,6 +41189,12 @@ https://vavoo.to/vavoo-iptv/play/172892897983fd32a0df7f
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2077331655b2a2fb2c4bcc
+
+#EXTINF:-1 group-title="GERMANY",SKY CINEMA PREMIEREN +24 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2627114955ced1051616ba
 
 #EXTINF:-1 group-title="GERMANY",SKY CINEMA PREMIEREN +24 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -40434,6 +41322,12 @@ https://vavoo.to/vavoo-iptv/play/2563154037f90077135677
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/27120769207d4e2fe1aee2
 
+#EXTINF:-1 group-title="GERMANY",SKY CINEMA THRILLER HD+ .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/8552034080630b565e22
+
 #EXTINF:-1 group-title="ITALY",SKY CINEMA UNO +24 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -40542,6 +41436,12 @@ https://vavoo.to/vavoo-iptv/play/2557344364495caaf50be8
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4154732080b5bdb8a206f8
 
+#EXTINF:-1 group-title="GERMANY",SKY FUN .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/25921202527f426e83343f
+
 #EXTINF:-1 group-title="GERMANY",SKY JUNIOR .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -40607,6 +41507,12 @@ https://vavoo.to/vavoo-iptv/play/3851267656aba216e501bb
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/15997032849dd5f8e56802
+
+#EXTINF:-1 group-title="GERMANY",SKY MOVIES SELECT 6 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/21473847139eaa28a8e573
 
 #EXTINF:-1 group-title="GERMANY",SKY NATURE .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -40698,6 +41604,12 @@ https://vavoo.to/vavoo-iptv/play/141538772624013fe3f485
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/469747947f27284605b44
 
+#EXTINF:-1 group-title="GERMANY",SKY POPCORN SELECT 1 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/282458459136af4a0cdded
+
 #EXTINF:-1 group-title="GERMANY",SKY POPCORN SELECT 2 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -40715,12 +41627,6 @@ https://vavoo.to/vavoo-iptv/play/353343460740d8b2235663
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1622881023c2132d61b5b0
-
-#EXTINF:-1 group-title="GERMANY",SKY POPCORN SELECT 5 .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1574640463aab12616600f
 
 #EXTINF:-1 group-title="GERMANY",SKY PREMIEREN .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -40806,6 +41712,12 @@ https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 
+#EXTINF:-1 group-title="ITALY",SKY PRIMAFILA 18 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
+
 #EXTINF:-1 group-title="ITALY",SKY PRIMAFILA 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -40847,6 +41759,12 @@ https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
+
+#EXTINF:-1 group-title="ITALY",SKY PRIMAFILA 5 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 
 #EXTINF:-1 group-title="ITALY",SKY PRIMAFILA 6 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -40985,6 +41903,18 @@ https://vavoo.to/vavoo-iptv/play/1917658583e1246ffc0151
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1225702913e820a987787b
+
+#EXTINF:-1 group-title="GERMANY",SKY SELECT 11 4K (MULTIAUDIO) .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3986138697dc12f44b1e3a
+
+#EXTINF:-1 group-title="GERMANY",SKY SELECT 12 4K (MULTIAUDIO) .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/25255702186af6f4b9582d
 
 #EXTINF:-1 group-title="GERMANY",SKY SELECT 13 4K (MULTIAUDIO) .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -41286,6 +42216,12 @@ https://vavoo.to/vavoo-iptv/play/29630676919edf64c3693f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2382166683aa3a6ebf18c6
 
+#EXTINF:-1 group-title="GERMANY",SKY SELECT PROGRAMM BERSICHT .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2777266633d00f3be1b209
+
 #EXTINF:-1 group-title="ITALY",SKY SERIE .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -41472,12 +42408,6 @@ https://vavoo.to/vavoo-iptv/play/1680612560cb9822726c44
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2353380835657a79821d9a
 
-#EXTINF:-1 group-title="GERMANY",SKY SPORT 6 HD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/463237157314e6d840607
-
 #EXTINF:-1 group-title="GERMANY",SKY SPORT 7 (MATCH TIME) .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -41502,11 +42432,11 @@ https://vavoo.to/vavoo-iptv/play/20972212099a78bee77fe0
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/86330662609d054c4c696
 
-#EXTINF:-1 group-title="GERMANY",SKY SPORT 8 HD .b
+#EXTINF:-1 group-title="GERMANY",SKY SPORT 9 (MATCH TIME) .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/23634792766d334318406
+https://vavoo.to/vavoo-iptv/play/2454960312cf3871fa5939
 
 #EXTINF:-1 group-title="GERMANY",SKY SPORT 9 (MATCH TIME) .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -41760,18 +42690,6 @@ https://vavoo.to/vavoo-iptv/play/111718253865ac941d6b31
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1922768904de41a23ad006
 
-#EXTINF:-1 group-title="GERMANY",SKY SPORT PREMIER LEAGUE .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1922768904de41a23ad006
-
-#EXTINF:-1 group-title="GERMANY",SKY SPORT PREMIERE LEAGUE .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/18181140236beec23e64ca
-
 #EXTINF:-1 group-title="GERMANY",SKY SPORT PREMIERE LEAGUE .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -41789,12 +42707,6 @@ https://vavoo.to/vavoo-iptv/play/331373602738ff5993090e
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
-
-#EXTINF:-1 group-title="GERMANY",SKY SPORT TENNIS .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/226973512188ede053f7c2
 
 #EXTINF:-1 group-title="GERMANY",SKY SPORT TENNIS .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -42600,6 +43512,12 @@ https://vavoo.to/vavoo-iptv/play/371171793555340833c0c9
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/34057304660b199e9243e3
 
+#EXTINF:-1 group-title="ARABIA",SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT BARCA HD--♣♦♣♦♣♦♣ .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/19802566432d00a5420952
+
 #EXTINF:-1 group-title="ARABIA",SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT INTER--♣♦♣♦♣♦♣ .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -42996,12 +43914,6 @@ https://vavoo.to/vavoo-iptv/play/10004270647c8377fd8313
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/34289402226976c68b9b9e
 
-#EXTINF:-1 group-title="BALKANS",SPORT TV 1 .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/164516264852a71032fe0e
-
 #EXTINF:-1 group-title="PORTUGAL",SPORT TV 1 HD (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -43145,12 +44057,6 @@ https://vavoo.to/vavoo-iptv/play/1718019314692f3e5da768
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2751720311e2687ee6aabf
-
-#EXTINF:-1 group-title="PORTUGAL",SPORT TV NBA HD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/3476204840bf5976a29b6f
 
 #EXTINF:-1 group-title="GERMANY",SPORT1 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -43536,6 +44442,12 @@ https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3288066978d8a474a11a70
 
+#EXTINF:-1 group-title="GERMANY",STERN FILME 10 .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3592253767e65008a1f620
+
 #EXTINF:-1 group-title="GERMANY",STERN FILME 2 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -43649,12 +44561,6 @@ https://vavoo.to/vavoo-iptv/play/2307271920cca26aff9914
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/384330772ffad167885d3
-
-#EXTINF:-1 group-title="BALKANS",STUDIO B .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/383038098665b88591aca6
 
 #EXTINF:-1 group-title="ARABIA",STUDIO UNIVERSAL .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -43907,12 +44813,6 @@ https://vavoo.to/vavoo-iptv/play/24577010964d0e83c4f3ea
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2432288079d8abe019ba89
-
-#EXTINF:-1 group-title="BALKANS",SUPER STAR TV HD .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1773133498d35bd28acd37
 
 #EXTINF:-1 group-title="ITALY",SUPER TENNIS .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -44237,6 +45137,12 @@ https://vavoo.to/vavoo-iptv/play/3082060898545c78879ef4
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3783716731becea7f335a2
+
+#EXTINF:-1 group-title="TURKEY",TABII SPOR 1 4K .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/38306913165380d4cf64db
 
 #EXTINF:-1 group-title="TURKEY",TABII SPOR 1 720P .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -44567,6 +45473,12 @@ https://vavoo.to/vavoo-iptv/play/17684043043984fbf099f8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/658342949819aaca862d6
+
+#EXTINF:-1 group-title="GERMANY",TEEN .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/51213572029a6479cddb6
 
 #EXTINF:-1 group-title="ROMANIA",TEENNICK .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -45000,12 +45912,6 @@ https://vavoo.to/vavoo-iptv/play/347169683761407c8eb444
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/18742416038ebe5e37e55e
 
-#EXTINF:-1 group-title="GERMANY",TELEKOM BUNDESLIGA 3 .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/220993150949766d54628a
-
 #EXTINF:-1 group-title="GERMANY",TELEKOM BUNDESLIGA 3 HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -45035,6 +45941,12 @@ https://vavoo.to/vavoo-iptv/play/21758498196b3cfe5eac6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/32910159001bd5dd244361
+
+#EXTINF:-1 group-title="GERMANY",TELEKOM BUNDESLIGA 6 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1264086917501ce7c508db
 
 #EXTINF:-1 group-title="GERMANY",TELEKOM BUNDESLIGA 6 HD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -45083,6 +45995,12 @@ https://vavoo.to/vavoo-iptv/play/3194919143735e19d2dde8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/212393001489c25c01efd5
+
+#EXTINF:-1 group-title="FRANCE",TELEMAG .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/23278726201bbf77bb67dc
 
 #EXTINF:-1 group-title="ITALY",TELEMANTOVA .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -45233,6 +46151,12 @@ https://vavoo.to/vavoo-iptv/play/338122156734dd2a430fae
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
+
+#EXTINF:-1 group-title="ITALY",TELETUBBIES .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/257447576d383e8001862
 
 #EXTINF:-1 group-title="ITALY",TELEVENEZIA .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -45648,6 +46572,12 @@ https://vavoo.to/vavoo-iptv/play/5193807072a9680c364c6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/904693821d76c43666835
 
+#EXTINF:-1 group-title="BULGARIA",TIANKOV ORIENT FOLK .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1966113455ede7094da132
+
 #EXTINF:-1 group-title="ARABIA",TIERRAMIA TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -45905,12 +46835,6 @@ https://vavoo.to/vavoo-iptv/play/314642933454afb0ab4f31
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/924585577ef4395cf2a73
-
-#EXTINF:-1 group-title="BALKANS",TK TUZLA BH .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/204337251595615dfdc28f
 
 #EXTINF:-1 group-title="GERMANY",TLC (BACKUP) .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -46428,6 +47352,12 @@ https://vavoo.to/vavoo-iptv/play/22929802964d488bbfc247
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4722090563ed8725b6db7
 
+#EXTINF:-1 group-title="PORTUGAL",TOROS .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/16196976980919a19eb333
+
 #EXTINF:-1 group-title="SPAIN",TOROS .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -46440,11 +47370,23 @@ https://vavoo.to/vavoo-iptv/play/142832720b500e5b89cad
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/784576657f26a88c3fce5
 
+#EXTINF:-1 group-title="PORTUGAL",TOROS TV .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1243809524ae367b5e76b4
+
 #EXTINF:-1 group-title="SPAIN",TOROS TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/46981335898e66a40a61f
+
+#EXTINF:-1 group-title="SPAIN",TOROS TV HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1213515147e8f773d35b54
 
 #EXTINF:-1 group-title="GERMANY",TOTALLY TURTLES .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -46752,6 +47694,12 @@ https://vavoo.to/vavoo-iptv/play/35546863658218332eb823
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3553986754072ac740d4a3
 
+#EXTINF:-1 group-title="ALBANIA",TRING CLASSIC .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3656419422362dff6a06b6
+
 #EXTINF:-1 group-title="ALBANIA",TRING COLLECTION .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -46998,6 +47946,12 @@ https://vavoo.to/vavoo-iptv/play/1805478397ccf090ba4469
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/40400431083550ca22c5e1
 
+#EXTINF:-1 group-title="ITALY",TRSPORT .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
+
 #EXTINF:-1 group-title="TURKEY",TRT 1 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -47034,6 +47988,12 @@ https://vavoo.to/vavoo-iptv/play/1221669131f90e763b2bbf
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/194373112d73ddb5898a4
 
+#EXTINF:-1 group-title="TURKEY",TRT 1 RAW .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2346924541149e465206c7
+
 #EXTINF:-1 group-title="TURKEY",TRT 1 SD .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -47057,6 +48017,12 @@ https://vavoo.to/vavoo-iptv/play/10988270778ea74cd28244
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/200530513284b4baa30873
+
+#EXTINF:-1 group-title="TURKEY",TRT 3 SPOR .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/719664723485d9a3c9ed5
 
 #EXTINF:-1 group-title="TURKEY",TRT 4K .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -47418,6 +48384,12 @@ https://vavoo.to/vavoo-iptv/play/3550946814ee96d7cdbee3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/898098041feb3bf8f8ae0
 
+#EXTINF:-1 group-title="SPAIN",TUYA LA JANDA TV .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1762459844e0385f023b8c
+
 #EXTINF:-1 group-title="BULGARIA",TV 1 .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -47651,12 +48623,6 @@ https://vavoo.to/vavoo-iptv/play/3506302655fa083aabc726
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1366935147d20e3f30c3cf
-
-#EXTINF:-1 group-title="TURKEY",TV 4 .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/975669992eaa57c420d25
 
 #EXTINF:-1 group-title="TURKEY",TV 4 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -48192,6 +49158,12 @@ https://vavoo.to/vavoo-iptv/play/21748499270ece6ecd9d72
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4079206372c5a0e8d32ddd
 
+#EXTINF:-1 group-title="POLAND",TV PLUS .c
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/19060152115da3d5f96da6
+
 #EXTINF:-1 group-title="BULGARIA",TV PLUS .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -48269,12 +49241,6 @@ https://vavoo.to/vavoo-iptv/play/6654860832c078150f3a0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1022425106f39d58c3b009
-
-#EXTINF:-1 group-title="BALKANS",TV SEHARA .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/9735466830c44ed9bc7
 
 #EXTINF:-1 group-title="BALKANS",TV SEVDAH .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -48780,6 +49746,12 @@ https://vavoo.to/vavoo-iptv/play/31179070243c2df25be435
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3319341659e79553b0b8ee
 
+#EXTINF:-1 group-title="POLAND",TVN 7 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/199439138051fc2626f58b
+
 #EXTINF:-1 group-title="BULGARIA",TVN BULGARIA .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -49001,6 +49973,12 @@ https://vavoo.to/vavoo-iptv/play/1463467003938f48194736
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/612328203f5ce7db9053c
+
+#EXTINF:-1 group-title="POLAND",TVP SPORT .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/385437754454d0d7037a32
 
 #EXTINF:-1 group-title="POLAND",TVP SPORT .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -49506,6 +50484,18 @@ https://vavoo.to/vavoo-iptv/play/283488957765bdf3a7fbe5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/27248319391f2003ffd54a
 
+#EXTINF:-1 group-title="SPAIN",VAMOS BAR 1 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/22769516123defcca9246a
+
+#EXTINF:-1 group-title="SPAIN",VAMOS BAR 2 HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/15469820736c30cac2b55
+
 #EXTINF:-1 group-title="TURKEY",VAN TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -49589,6 +50579,12 @@ https://vavoo.to/vavoo-iptv/play/7540185640152f57743e4
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4285181325cec8021462ec
+
+#EXTINF:-1 group-title="SPAIN",VIAJAR HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2962760626894bbd07215
 
 #EXTINF:-1 group-title="FRANCE",VIAMIRABELLE TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -49962,29 +50958,11 @@ https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 
-#EXTINF:-1 group-title="ITALY",VIDEOLINA .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
-
 #EXTINF:-1 group-title="ITALY",VIDEOSTAR TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
-
-#EXTINF:-1 group-title="ITALY",VIDEOSTAR TV .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
-
-#EXTINF:-1 group-title="ITALY",VIDEOTOLENTINO .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 
 #EXTINF:-1 group-title="ITALY",VIDEOTOLENTINO .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -50171,12 +51149,6 @@ https://vavoo.to/vavoo-iptv/play/246269046107c5a886d004
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3916212970814eb1cf9fb8
-
-#EXTINF:-1 group-title="BULGARIA",VTV .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/241553435a1bf6e0cf453
 
 #EXTINF:-1 group-title="TURKEY",VUSLAT TV .c
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -50550,12 +51522,6 @@ https://vavoo.to/vavoo-iptv/play/11147288197d3a91101df
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/518498556b63ddc228653
 
-#EXTINF:-1 group-title="BULGARIA",WORLD FASHION CHANNEL .c
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/13863485395e27fde90b93
-
 #EXTINF:-1 group-title="BULGARIA",WORLD FIGHT CHANNEL .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -50772,6 +51738,12 @@ https://vavoo.to/vavoo-iptv/play/22695075131188f358de78
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/4208329945424738bf4d34
 
+#EXTINF:-1 group-title="SPAIN",XTRM FULL HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/4208329945424738bf4d34
+
 #EXTINF:-1 group-title="TURKEY",YABAN .c
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -50892,12 +51864,6 @@ https://vavoo.to/vavoo-iptv/play/3398900590481025ccb22c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/198735331357efd2ecbe5f
 
-#EXTINF:-1 group-title="UNITED KINGDOM",YESTERDAY+1 .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/198735331357efd2ecbe5f
-
 #EXTINF:-1 group-title="TURKEY",YILDIZ EN TV .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -50957,6 +51923,12 @@ https://vavoo.to/vavoo-iptv/play/454998951290c544693
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/1025852629c27af6c98c43
+
+#EXTINF:-1 group-title="BALKANS",ZADRUGA 4 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/2399508677be8f76dfa794
 
 #EXTINF:-1 group-title="BALKANS",ZADRUGA 4 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -51077,12 +52049,6 @@ https://vavoo.to/vavoo-iptv/play/1813381654f333dbfcf534
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/22316944831472849d758b
-
-#EXTINF:-1 group-title="UNITED KINGDOM",ZEE TV INDIA .s
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/35954386963d31806aecbc
 
 #EXTINF:-1 group-title="UNITED KINGDOM",ZEE TV INDIA .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -51233,12 +52199,6 @@ https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
-
-#EXTINF:-1 group-title="TURKEY",ZONGULDAK KANAL Z .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/1467834090ec77c1def93a
 
 #EXTINF:-1 group-title="TURKEY",ZONGULDAK KANAL Z .b
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -51612,6 +52572,18 @@ https://vavoo.to/vavoo-iptv/play/17080132946bd8a5aa59e5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/139896065677895845fec1
 
+#EXTINF:-1 group-title="RUSSIA",ВОЛГОГРАД 24 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1478256571074018e3f29f
+
+#EXTINF:-1 group-title="RUSSIA",ГЛАЗАМИ ТУРИСТА HD .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/10924695766bec6382aa4f
+
 #EXTINF:-1 group-title="RUSSIA",ДАГЕСТАН .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -51792,11 +52764,23 @@ https://vavoo.to/vavoo-iptv/play/2442441826941316753e96
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/29727839437ebd952d77aa
 
+#EXTINF:-1 group-title="RUSSIA",КИНОКОМЕДИЯ .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1889272671af37535e8cd
+
 #EXTINF:-1 group-title="RUSSIA",КИНОМИКС .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/3291727292ea02ac0edb90
+
+#EXTINF:-1 group-title="RUSSIA",КИНОМИКС .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/808610333b133b2c95e48
 
 #EXTINF:-1 group-title="RUSSIA",КИНОПОКАЗ 3 .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -51845,6 +52829,12 @@ https://vavoo.to/vavoo-iptv/play/320077498ab978524f802
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/37178665092bb43e4bac2e
+
+#EXTINF:-1 group-title="RUSSIA",КИНОХИТ .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/40507437277925cf6c5153
 
 #EXTINF:-1 group-title="RUSSIA",КИОНОПРЕМЬЕРА .s
 #EXTVLCOPT:http-origin=https://vavoo.to
@@ -52350,6 +53340,12 @@ https://vavoo.to/vavoo-iptv/play/422295579152fc36d97169
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/847607886bd9af14de58
 
+#EXTINF:-1 group-title="RUSSIA",РОССИЯ-1 .s
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/1930744275f14c70876e1d
+
 #EXTINF:-1 group-title="RUSSIA",РОССИЯ-К .s
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -52536,6 +53532,12 @@ https://vavoo.to/vavoo-iptv/play/39477320814354da7a3f7f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/289420819de3eb3b023e7
 
+#EXTINF:-1 group-title="RUSSIA",ТНТ .b
+#EXTVLCOPT:http-origin=https://vavoo.to
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+https://vavoo.to/vavoo-iptv/play/371099324285e376d4d45c
+
 #EXTINF:-1 group-title="RUSSIA",ТНТ MUSIC .b
 #EXTVLCOPT:http-origin=https://vavoo.to
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -52577,18 +53579,6 @@ https://vavoo.to/vavoo-iptv/play/3992435319533e7980c761
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 https://vavoo.to/vavoo-iptv/play/314819430769667db4be1
-
-#EXTINF:-1 group-title="RUSSIA",Ю .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/314819430769667db4be1
-
-#EXTINF:-1 group-title="RUSSIA",ЮВЕЛИРОЧКА .b
-#EXTVLCOPT:http-origin=https://vavoo.to
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://vavoo.to/vavoo-iptv/play/941380953a789f332b481
 
 #EXTINF:-1 group-title="RUSSIA",ЮВЕЛИРОЧКА .b
 #EXTVLCOPT:http-origin=https://vavoo.to
